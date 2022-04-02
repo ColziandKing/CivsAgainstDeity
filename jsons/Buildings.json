@@ -13,7 +13,7 @@
 	{
 		"name": "Pyramid",
 		"replaces": "Shrine",
-		"uniqueTo": "The Maya",
+		"uniqueTo": "Chediluen",
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
