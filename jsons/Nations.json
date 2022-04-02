@@ -26,7 +26,7 @@
 		"outerColor": [102,0,204],
 		"innerColor": [0,204,0],
 		"uniqueName": "Kingdom of a City Nation",
-		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion", "[+25]% Production when constructing [All] buildings [in all cities]",
-                "Recruit a Enemy unit <with [100]% chance>", "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
-			          "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."]
-    "cities": ["Central Heart", "Gira", "Fleyja Angnara", "Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"]
+		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion", 
+			    "[+25]% Production when constructing [All] buildings [in all cities]",
+                	    "Recruit a Enemy unit <with [100]% chance>"]
+    		"cities": ["Central Heart", "Gira", "Fleyja Angnara", "Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"]
