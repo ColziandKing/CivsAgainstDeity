@@ -1,0 +1,32 @@
+[
+  {
+		"name": "Iaelumara Ira",
+		"leaderName": "Eula Tempest",
+		"adjective": ["Tempresa"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "WIP.",
+		"startIntroPart2": "WIP.",					
+		
+		"declaringWar": "It appears there are many who want you dead, and so you will be.",
+		"attacked": "No one double crosses Jabba and lives.",
+		"defeated": "Fool! At least with me the underworld was under control, but soon one worse than me shall rise.",
+		"introduction": "If there's money to be made, we will get it.",
+		"neutralHello": "Come to me with a deal?",		
+		"neutralLetsHearIt": "You have an offer?",
+		"neutralNo": "I could have you hung for that.",
+		"neutralYes": "You know how to do business",
+		"hateHello": "I can feel the conflict within you.",	
+		"hateLetsHearIt": "You are hard to kill.",
+		"hateNo": "I could have you hung for that.",
+		"hateYes": "You know how to do business.",
+		"afterPeace": "This is not peace, but a pause",
+		"tradeRequest": "My latest batch of shipments has arrived.",
+		
+		"outerColor": [102,0,204],
+		"innerColor": [0,204,0],
+		"uniqueName": "Kingdom of a City Nation",
+		"uniques": ["May choose [3] additional belief(s) of any type when [founding] a religion", "[+25]% Production when constructing [All] buildings [in all cities]",
+                "Recruit a Enemy unit <with [100]% chance>", "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			          "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."]
+    "cities": ["Central Heart", "Gira", "Fleyja Angnara", "Shire","Ambo","Negele Arsi","Gambela","Ziway","Weldiya"]
