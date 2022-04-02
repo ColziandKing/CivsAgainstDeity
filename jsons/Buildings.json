@@ -11,6 +11,17 @@
 		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
 	},
 	{
+		"name": "Pyramid",
+		"replaces": "Shrine",
+		"uniqueTo": "The Maya",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
 		"name": "Paper Maker",
 		"replaces": "Library",
 		"uniqueTo": "Azibhania",
@@ -287,4 +298,5 @@
 		"requiredTech": "Currency",
 		"uniques": ["[+3 Gold] from [Wine] tiles in this city"],
 	}
+	//hanse soon
   ]
