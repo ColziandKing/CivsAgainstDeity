@@ -1,0 +1,12 @@
+[
+  {
+		"name": "Seaside Stall",
+		"uniqueTo": "Chediluen",
+		"food": 1,
+		"gold": 1,
+		"production": 1,
+		"turnsToBuild": 9,
+		"techRequired": "Optics",
+		"uniques": ["Can only be built on Coastal tiles","[+1 Production] once [Compass] is discovered","[+1 Gold] once [Navigation] is discovered"]
+	}
+  ]
