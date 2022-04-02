@@ -30,15 +30,17 @@
 		"[+1 Science] from every [Mine]",
 		"[+1 Production] from every [Iron]",
 		"[+1 Culture] from every [Aluminum]",
-		"Starts with [Iron Working]",
     "Starts with [Animal Husbandry]",
     "Starts with [Pottery]",
     "Starts with [Archery]",
      "Starts with [Mining]",
     "Can construct [Holy Place]",
-    "May choose [2] additional belief(s) of any type when [founding] a religion",
+    "May choose [3] additional belief(s) of any type when [founding] a religion",
     "[+25]% Production when constructing [All] buildings [in all cities]",
-    "Pastures yield additional 1 Food and 1 Culture. Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills"]
+    "Pastures yield additional 1 Food and 1 Culture. Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills",
+			   "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+			   "-[50]% [Melee] unit maintenance costs","[Military] units gain [25]% more Experience from combat",
+			   "[-10]% Culture cost of adopting new Policies"]
 		"cities": ["Coruscant","Kamino","Nevarro","Bacrana","Balosar","Bandomeer","Naboo","Dathomir","Illum","Alzoc","Byss","Corulag"]
 	},
 	{
@@ -76,53 +78,14 @@
     "Starts with [Pottery]",
     "Starts with [Archery]",
     "Starts with [Mining]",
-    		"May choose [2] additional belief(s) of any type when [founding] a religion",
+    		"May choose [3] additional belief(s) of any type when [founding] a religion",
         "[-25]% Production when constructing [All] buildings [in all cities]",
 		"Pay only one third the usual cost for naval unit maintenance","[+2 Food, +2 Culture, +2 Gold] from every [Harbor]",
-		"Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time"]
+		"Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time",
+			   "Recruit a Enemy unit <with [100]% chance>",
+			   "Receive triple Gold from pillaging Cities",
+			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			   "Receive a free Social Policy when you advance to the next era"]
 		"cities": ["Yavin 4", "Hoth", "Endor", "Dantooine", "Aldeeran", "Dantooine", "Ando", "Dagobah", "Castilon", "Eadu", "Kuat", "Mimbam", "Shilli", "Wrea", "Vandor", "Lothal"]
-	},
-{
-		"name": "Ilumara Ira",
-		"leaderName": "Eula Tempest",
-		"adjective": ["Tempresa"],
-		"preferredVictoryType": "Diplomatic",
-		
-		"startIntroPart1": "WIP.",
-		"startIntroPart2": "WIP.",					
-		
-		"declaringWar": "It appears there are many who want you dead, and so you will be.",
-		"attacked": "No one double crosses Jabba and lives.",
-		"defeated": "Fool! At least with me the underworld was under control, but soon one worse than me shall rise.",
-		"introduction": "If there's money to be made, we will get it.",
-		"neutralHello": "Come to me with a deal?",		
-		"neutralLetsHearIt": "You have an offer?",
-		"neutralNo": "I could have you hung for that.",
-		"neutralYes": "You know how to do business",
-		"hateHello": "I can feel the conflict within you.",	
-		"hateLetsHearIt": "You are hard to kill.",
-		"hateNo": "I could have you hung for that.",
-		"hateYes": "You know how to do business.",
-		"afterPeace": "This is not peace, but a pause",
-		"tradeRequest": "My latest batch of shipments has arrived.",
-		
-		"outerColor": [128,255,0],
-		"innerColor": [0,255,255],
-		"uniqueName": "Kingdom of a City Nation",
-		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>",
-		"May capture killed [All] units",
-		"[-10]% Strength <vs [Barbarian] units>",
-		"[+10]% Strength <vs [City-State] units>",
-		"May choose [3] additional belief(s) of any type when [founding] a religion",
-    		"[+25]% Production when constructing [All] buildings [in all cities]",
-		"\"Borrows\" city names from other civilizations in the game",
-		"No movement cost to pillage <for [Melee] units>",
-		"Earn [100]% of killed [Military] unit's [Strength] as [Culture]", "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-		"+10% Strength when fighting City-State units and cities",
-		"Receive triple Gold from pillaging Cities",
-		"When defeating a [{Barbarian} {Water}] unit, earn [30] Gold and recruit it <with [100]% chance>", "When conquering an encampment, earn [30] Gold and recruit a Barbarian unit <with [100]% chance>",
-		"When defeating a [{Enemy} {Water}] unit, recruit it <with [100]% chance>", "Recruit a Enemy unit <with [100]% chance>",
-		"Cannot build [Settler] units"]
-		"cities": ["Central Heart", "Gira", "Fleyja Angnara"]
 	}
 ]
