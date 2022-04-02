@@ -2,7 +2,7 @@
   {
 		"name": "Stele",
 		"replaces": "Monument",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Azibhania",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
@@ -22,7 +22,7 @@
 	{
 		"name": "Floating Gardens",
 		"replaces": "Water Mill",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Chediluen",
 		"food": 2,
 		"production": 1,
 		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
@@ -35,7 +35,7 @@
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Azibhania",
+		"uniqueTo": "Chediluen",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -165,7 +165,7 @@
 	{
 		"name": "Slave Market",
 		"replaces": "Market",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Chediluen",
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
@@ -183,7 +183,7 @@
 		"culture": 4,
 		"specialistSlots": {"Artist": 2},
 		"greatPersonPoints": {"Great Artist": 1},
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Chediluen",
 	},
 	{
 		"name": "Peruvian Restaurant",
@@ -213,7 +213,7 @@
 	},
 	{
 		"name": "Social Change (Tradition)",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Azibhania",
 		"isNationalWonder": true,
 		"cost": 150,
 		"requiredBuilding": "Palace",
@@ -221,7 +221,7 @@
 	},
 		{
 		"name": "Social Change (Liberty)",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Azibhania",
 		"isNationalWonder": true,
 		"cost": 150,
 		"requiredBuilding": "Palace",
@@ -229,7 +229,7 @@
 	},
 		{
 	"name": "Social Change (Honor)",
-	"uniqueTo": "Ilumara Ira",
+	"uniqueTo": "Azibhania",
 	"isNationalWonder": true,
 	"cost": 150,
 	"requiredBuilding": "Palace",
@@ -237,7 +237,7 @@
 	},
 		{
 	"name": "Social Change (Piety)",
-	"uniqueTo": "Ilumara Ira",
+	"uniqueTo": "Azibhania",
 	"isNationalWonder": true,
 	"cost": 250,
 	"requiredBuilding": "Palace",
@@ -245,7 +245,7 @@
 	},
 		{
 	"name": "Social Change (Commerce)",
-	"uniqueTo": "Ilumara Ira",
+	"uniqueTo": "Azibhania",
 	"isNationalWonder": true,
 	"cost": 350,
 	"requiredBuilding": "Palace",
@@ -253,7 +253,7 @@
 	},
 			{
 	"name": "Social Change (Rationalism)",
-	"uniqueTo": "Ilumara Ira",
+	"uniqueTo": "Azibhania",
 	"isNationalWonder": true,
 	"cost": 500,
 	"requiredBuilding": "Palace",
@@ -261,7 +261,7 @@
 	},
 			{
 	"name": "Social Change (Freedom)",
-	"uniqueTo": "Ilumara Ira",
+	"uniqueTo": "Azibhania",
 	"isNationalWonder": true,
 	"cost": 500,
 	"requiredBuilding": "Palace",
@@ -269,7 +269,7 @@
 	},
 			{
 		"name": "Social Change (Autocracy)",
-		"uniqueTo": "Ilumara Ira",
+		"uniqueTo": "Azibhania",
 		"isNationalWonder": true,
 		"cost": 700,
 		"requiredBuilding": "Palace",
