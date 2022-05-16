@@ -1,5 +1,3 @@
-# Oneas
-## V1.2
-Added stuff
-## V1.1
-Start
+# CivsAgainstDeity
+Deity difficulty too difficult? Well this is your chance for revenge, the mod will only allow you to be on the same level as them 
+but have advance units beyond era. This has three new civs for advance units.
