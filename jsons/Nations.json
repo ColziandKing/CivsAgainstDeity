@@ -40,7 +40,11 @@
     "Pastures yield additional 1 Food and 1 Culture. Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills",
 			   "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
 			   "-[50]% [Melee] unit maintenance costs","[Military] units gain [25]% more Experience from combat",
-			   "[-10]% Culture cost of adopting new Policies"]
+			   //[-10]% Culture cost of adopting new Policies//
+			    
+			   "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
+			    "[-60]% Culture cost of adopting new Policies","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]",
+			    "Starts with [The Wheel]","Starts with [Nuclear Fusion]","Starts with [Atomic Theory]"]
 		"cities": ["Coruscant","Kamino","Nevarro","Bacrana","Balosar","Bandomeer","Naboo","Dathomir","Illum","Alzoc","Byss","Corulag"]
 	},
 	{
@@ -85,7 +89,60 @@
 			   "Recruit a Enemy unit <with [100]% chance>",
 			   "Receive triple Gold from pillaging Cities",
 			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-			   "Receive a free Social Policy when you advance to the next era"]
+			   "Receive a free Social Policy when you advance to the next era",
+			   
+			   "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
+			    "[-60]% Culture cost of adopting new Policies","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]",
+			    "Starts with [The Wheel]","Starts with [Mobile Tactics]"]
+		"cities": ["Yavin 4", "Hoth", "Endor", "Dantooine", "Aldeeran", "Dantooine", "Ando", "Dagobah", "Castilon", "Eadu", "Kuat", "Mimbam", "Shilli", "Wrea", "Vandor", "Lothal"]
+	},
+{
+		"name": "Cshediluen",
+		"leaderName": "Hollena Planeta",
+		"adjective": ["Rebel"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Greetings. It seems the force has brought us together. I hear you got to survey and establish a base in this planet. I too have heard of there being suspicious activity here so I'm trying to supervise myself. Might as well set up a base since we're here anyway.",
+		"startIntroPart2": "Danger is always around the corner though, so make sure to be careful. Good luck, and may the force be with you.",					
+		
+		"declaringWar": "You're leaving behind a trail of chaos and destruction, I will have to stop you.",
+		"attacked": "Get ready! We're under attack!",
+		"defeated": "No way, and I was just getting started...",
+		"introduction": "Ever been out of a job? I can teach you moisture farming.",
+		"neutralHello": "Luke Skywalker, reporting in.",		
+		"neutralLetsHearIt": "You have an offer?",
+		"neutralNo": "Il pass on that.",
+		"neutralYes": "Il take it",
+		"hateHello": "I can feel the conflict within you.",	
+		"hateLetsHearIt": "You better thread carefully.",
+		"hateNo": "Il pass on that.",
+		"hateYes": "Il take it",
+		"afterPeace": "It's never too late, not even for you.",
+		"tradeRequest": "It seems the force has brought us together.",
+		
+		"outerColor": [245,245,245],
+		"innerColor": [238,0,0],
+		"uniqueName": "A New Hope",
+		"uniques": ["[+25]% great person generation [in all cities]",
+		"[-50]% Food consumption by specialists [in all cities]",
+		"[+33]% Production when constructing [Fighter] units [in all cities]",
+		"[+33]% Production when constructing [Bomber] units [in all cities]",
+    "Starts with [Animal Husbandry]",
+    "Starts with [Pottery]",
+    "Starts with [Archery]",
+    "Starts with [Mining]",
+    		"May choose [3] additional belief(s) of any type when [founding] a religion",
+        "[-25]% Production when constructing [All] buildings [in all cities]",
+		"Pay only one third the usual cost for naval unit maintenance","[+2 Food, +2 Culture, +2 Gold] from every [Harbor]",
+		"Receive 10% bonus toward correspondent Great Person when you build an unique specialist building in your Empire for the first time",
+			   "Recruit a Enemy unit <with [100]% chance>",
+			   "Receive triple Gold from pillaging Cities",
+			   "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+			   "Receive a free Social Policy when you advance to the next era",
+			   
+			   "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
+			    "[-60]% Culture cost of adopting new Policies","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]",
+			    "Starts with [The Wheel]","Starts with [Lasers]","Starts with [Electricity]"]
 		"cities": ["Yavin 4", "Hoth", "Endor", "Dantooine", "Aldeeran", "Dantooine", "Ando", "Dagobah", "Castilon", "Eadu", "Kuat", "Mimbam", "Shilli", "Wrea", "Vandor", "Lothal"]
 	}
 ]
