@@ -34,7 +34,6 @@
     "Starts with [Pottery]",
     "Starts with [Archery]",
      "Starts with [Mining]",
-    "Can construct [Holy Place]",
     "May choose [3] additional belief(s) of any type when [founding] a religion",
     "[+25]% Production when constructing [All] buildings [in all cities]",
     "Pastures yield additional 1 Food and 1 Culture. Earn [150]% of [Land] opponent's [Strength] as [Gold] for kills",
@@ -44,7 +43,7 @@
 			    
 			   "[+1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]",
 			    "[-60]% Culture cost of adopting new Policies","Starts with [Pottery]","Starts with [Animal Husbandry]","Starts with [Mining]",
-			    "Starts with [The Wheel]","Starts with [Nuclear Fusion]","Starts with [Atomic Theory]"]
+			    "Starts with [The Wheel]","Starts with [Nuclear Fusion]","Starts with [Atomic Theory]"],
 		"cities": ["Coruscant","Kamino","Nevarro","Bacrana","Balosar","Bandomeer","Naboo","Dathomir","Illum","Alzoc","Byss","Corulag"]
 	},
 	{
