@@ -144,7 +144,8 @@
 			    "Starts with [The Wheel]","Starts with [Lasers]","Starts with [Electricity]"]
 		"cities": ["Yavin 4", "Hoth", "Endor", "Dantooine", "Aldeeran", "Dantooine", "Ando", "Dagobah", "Castilon", "Eadu", "Kuat", "Mimbam", "Shilli", "Wrea", "Vandor", "Lothal"]
 	},
-			"name": "Colziand",
+	{
+		"name": "Colziand",
 		"leaderName": "Raymond Sheen Caballero",
 		"adjective": ["Colziand"],
           	"startBias": ["Coast","Oasis"],
