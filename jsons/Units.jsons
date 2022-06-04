@@ -9,7 +9,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
-		"uniqueTo": "Babylon",
+		"uniqueTo": "Salveo",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	}
