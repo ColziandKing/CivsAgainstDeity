@@ -24,7 +24,7 @@
 	{
 		"name": "Paper Maker",
 		"replaces": "Library",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Fullysia",
 		"hurryCostModifier": 25,
 		"gold": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
@@ -46,7 +46,7 @@
 		"name": "Walls of Babylon",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Salveo",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -101,7 +101,7 @@
 	{
 		"name": "Longhouse",
 		"replaces": "Workshop",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Salveo",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
@@ -127,7 +127,7 @@
 		"name": "Mughal Fort",
 		"cost": 150,
 		"replaces": "Castle",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Fullysia",
 		"cityStrength": 7,
 		"cityHealth": 25,
 		"culture": 2,
@@ -228,5 +228,78 @@
         "uniques": ["[+5]% [Production] [in this city]",
             "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
         "requiredTech": "Banking"
+    },
+	//Ancient\\
+	{
+		"name": "Ziggurat",
+		"replaces": "Temple",
+		"uniqueTo": "Salveo", 
+		"maintenance": 3,
+		"faith": 1,
+		"science": 1,
+		"specialistSlots": {"Scientist": 1},
+		"cost":120,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Faith] from [River] tiles [in this city]","1 Scientist slot"],
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Synagogue",
+		"replaces": "Temple",
+		"uniqueTo": "Fullysia", 
+		"faith": 2,
+		"happiness": 1,
+		"gold": 2,
+		"cost": 100,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Shrine"
+		"requiredTech": "Theology"
+	},
+	{
+		"name": "Sphinx Gate",
+		"replaces": "Courthouse",
+		"uniqueTo": "Fullysia", 
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 120,
+		"maintenance": 4,
+		"culture": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Khachkar",
+		"replaces": "Shrine",
+		"uniqueTo": "Fullysia", 
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"hurryCostModifier": 40,
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in this city]"]
+	},
+		{
+		"name": "Slave Market",
+		"replaces": "Market",
+		"uniqueTo": "Salveo",
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"gold": 4,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Free [Worker] appears"],
+		"requiredTech": "Currency"
+	},
+	    {
+		"name": "Smeltery",
+        "replaces": "Forge",
+		"uniqueTo": "Salveo",
+        "maintenance": 1,
+		"production": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Iron Working",
+        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
+			"[+15]% Production when constructing [Land] units [in this city]",
+			"[+1 Production] from [Iron] tiles [in this city]"]
     },
   ]
