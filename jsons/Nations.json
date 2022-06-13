@@ -446,8 +446,8 @@
 		"startBias": ["Hill","Grassland"],
   	        "preferredVictoryType": "Domination",
 
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "I Magro will make our civilization great by conquering or by diplomacy, there is no need to settle to the unknown when there is known.",
+		"startIntroPart2": "Will I be able to do it, I don't know? But this is amusing.",
 		
 		"declaringWar": "Hahahaha! Fool, see my might because its ours. Hahahaha!",
 		"attacked": "Hahahaha! Fool, see my might because its ours. Hahahaha!",
