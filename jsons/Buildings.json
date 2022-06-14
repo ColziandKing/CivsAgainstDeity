@@ -180,7 +180,6 @@
 			"[+1 Production] from [Iron] tiles [in this city]"]
     },
 	//Colziand//
-    
 	{
 		"name": "Ceilidh Hall",
 		"replaces": "Opera House",
@@ -219,7 +218,6 @@
 		"requiredTech": "Currency"
 	},
 	//Salumi//
-	
 	{
 		"name": "Floating Gardens",
 		"replaces": "Water Mill",
@@ -233,8 +231,6 @@
 		"requiredTech": "The Wheel"
 	},
 	//Yanzerhan//
-	
-	
 	{
 		"name": "Longhouse",
 		"replaces": "Workshop",
@@ -246,6 +242,6 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
-	},
+	}
 	
   ]
