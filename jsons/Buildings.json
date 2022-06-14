@@ -46,19 +46,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy"
 	},
-	{
-		"name": "Wat",
-		"replaces": "University",
-		"uniqueTo": "Suzainswellia",
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
-		"culture": 3,
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Education"
-	},
+	
 	//Magroonaguio//
   {
 		"name": "Pyramid",
@@ -135,6 +123,19 @@
 		"culture": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction"
+	},
+	{
+		"name": "Wat",
+		"replaces": "University",
+		"uniqueTo": "Suzainswellia",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	},
 	//Salveo\\
 	{
