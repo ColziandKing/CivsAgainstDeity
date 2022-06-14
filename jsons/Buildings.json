@@ -34,20 +34,6 @@
             "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
         "requiredTech": "Banking"
     },
-	},
-	// will be introduced in BNW expansion pack
-//	{
-//		"name": "Hanse",
-//		"replaces": "Bank",
-//		"uniqueTo": "Germany",
-//		"gold": 2,
-//		"specialistSlots": {"Merchant": 1},
-//		"hurryCostModifier": 15,
-//		"percentStatBonus": {"gold": 25},
-//		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
-//		"requiredBuilding": "Market",
-//		"requiredTech": "Banking"
-//	},
 	{
 		"name": "Burial Tomb",
 		"replaces": "Temple",
