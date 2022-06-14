@@ -126,7 +126,16 @@
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
-	
+	{
+		"name": "Gamefield Court",
+		"replaces": "Colosseum",
+		"uniqueTo": "Fullysia",
+		"maintenance": 1,
+		"happiness": 2,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
 	//Salveo\\
 	{
 		"name": "Ziggurat",
@@ -203,6 +212,28 @@
 			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
+	 {
+		"name": "Supermarket",
+	        "uniqueTo": "Colziand",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Food] [in this city]"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Refrigeration"
+	},
+	{
+		"name": "Mall",
+		"uniqueTo": "Colziand",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 35},
+		"uniques": ["[+1 Food] [in this city]","[+1 Happiness] [in this city]"],
+		"requiredBuilding": "Supermarket",
+		"requiredTech": "Telecommunications"
+	},
 	//Salumi//
 	{
 		"name": "Floating Gardens",
@@ -216,6 +247,30 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
 	},
+	{
+		"name": "Madrassa",
+		"uniqueTo": "Salumi",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"faith": 1,
+		"culture": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Plaza",
+		"replaces": "Market",
+		"uniqueTo": "Salumi",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Gold] from [Silk] tiles [in this city]", "[+1 Gold] from [Salt] tiles [in this city]",
+			   "[+1 Gold] from [Marble] tiles [in this city]", "[+1 Gold] from [Incense] tiles [in this city]",],
+		"requiredTech": "Currency"
+	},
 	//Yanzerhan//
 	{
 		"name": "Longhouse",
@@ -228,6 +283,25 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
 		"requiredTech": "Metal Casting"
+	},
+	 {
+		"name": "Obelisk",
+		"replaces": "Monument",
+		"uniqueTo": "Yanzerhan",
+		"culture": 2,
+		"faith": 2,
+		"cost": 50,
+		"hurryCostModifier": 40,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+	},
+{
+		"name": "Pavillion",
+		"happiness": 2,
+		"culture": 2,
+		"hurryCostModifier": 10,
+		"maintenance": 3,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
 	}
-	
   ]
