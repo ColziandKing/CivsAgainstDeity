@@ -297,6 +297,8 @@
 	},
 {
 		"name": "Pavillion",
+		"replaces": "Theatre",
+		"uniqueTo": "Yanzerhan",
 		"happiness": 2,
 		"culture": 2,
 		"hurryCostModifier": 10,
