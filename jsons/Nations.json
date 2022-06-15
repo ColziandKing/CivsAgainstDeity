@@ -443,7 +443,7 @@
 		"name": "Magroonaguio",
 		"leaderName": "Magro Orsyerthum",
 		"adjective": ["Naguio"],
-		"startBias": ["Hill","Grassland"],
+		"startBias": ["Ocean"],
   	        "preferredVictoryType": "Domination",
 
 		"startIntroPart1": "I Magro will make our civilization great by conquering or by diplomacy, there is no need to settle to the unknown when there is known.",
