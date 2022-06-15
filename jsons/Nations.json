@@ -22,7 +22,7 @@
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
-		"uniqueText": "No additional",
+		"uniqueText": "Starts with Fertilizer",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]","[+1 Faith] from [All] tiles [in all cities]",
 			    "[-70]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
@@ -81,7 +81,8 @@
 			   "[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
 			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
 			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion",
-			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]"]
+			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]",
+			    "Starts with [Fertilizer]"]
 	},
 	{
 		"name": "Suzainswellia",
@@ -285,7 +286,7 @@
 		"innerColor": [0,0,255],
 
 		"uniqueName": "Iron Forged Will",
-		"uniqueText": "Starts with Fertilizer",
+		"uniqueText": "Challenge: Declare war with all major civs at first meet and never do a peace treaty because of two advance techs, team with Yanz",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]","[+1 Faith] from [All] tiles [in all cities]",
 			    "[-70]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
@@ -345,7 +346,7 @@
 			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
 			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion",
 			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]",
-			    "Starts with [Fertilizer]"],
+			   "Starts with [Biology]","Starts with [Plastics]"],
 
 		"cities": ["Leono","Leonorre","Leo Volt","Seon-Voe","Leona","Le Nova","Sardaze"]
 	},
@@ -374,7 +375,7 @@
 		"innerColor": [227,225,44],
 
 		"uniqueName": "Multiple Strengths",
-		"uniqueText": "Challenge: Declare war with all major civs at first meet and never do a peace treaty because of two advance techs, team with Mag",
+		"uniqueText": "Challenge: Declare war with all major civs at first meet and never do a peace treaty because of two advance techs, team with Salv",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]","[+1 Faith] from [All] tiles [in all cities]",
 			    "[-70]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
@@ -463,7 +464,7 @@
 		"innerColor": [90,0,10],
 
 		"uniqueName": "Fight Dealer",
-		"uniqueText": "Challenge: Declare war with all major civs at first meet and never do a peace treaty because of two advance techs, team with Yanz",
+		"uniqueText": "No additional",
 		"uniques": ["[+1 Science] from [All] tiles [in all cities]","[+1 Faith] from [All] tiles [in all cities]",
 			    "[-70]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "100 Gold for discovering a Natural Wonder (bonus enhanced to 500 Gold if first to discover it)",
@@ -522,8 +523,7 @@
 			   "[+2 Science] in capital", "[+1 Science] in all cities","[+1 Culture] from every [Pasture]","[+1 Food] from every [Pasture]",
 			   "[+10]% Production when constructing [Military] units [in all cities]","[+1 Gold] from every [Horses]","[+1 Production] from every [Horses]",
 			   "[+1 Gold] from every [Iron]","[+1 Production] from every [Iron]","[Military] units gain the [Blitz] promotion",
-			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]",
-			   "Starts with [Biology]","Starts with [Plastics]"],
+			   "[Military] units gain the [Besiege] promotion","+[50]% Production when constructing [Military] units [in all cities]"],
 
 		"cities": ["Magroonaguio"]
 	},
