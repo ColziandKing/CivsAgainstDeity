@@ -3,7 +3,7 @@
 	 {
 		"name": "Stele",
 		"replaces": "Monument",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
@@ -14,7 +14,7 @@
 	{
 		"name": "Coffee House",
 		"replaces": "Windmill",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"production": 2,
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 1},
@@ -37,7 +37,7 @@
 	{
 		"name": "Burial Tomb",
 		"replaces": "Temple",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"maintenance": 0,
 		"uniques": ["Doubles Gold given to enemy if city is captured"],
 		"faith": 2,
@@ -127,7 +127,7 @@
 	{
 		"name": "Wat",
 		"replaces": "University",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -179,7 +179,7 @@
 	{
 		"name": "Ceilidh Hall",
 		"replaces": "Opera House",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"culture": 4,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
@@ -192,7 +192,7 @@
 	{
 		"name": "Satrap's Court",
 		"replaces": "Bank",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Fullysia",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
@@ -215,7 +215,7 @@
 	},
 	 {
 		"name": "Supermarket",
-	        "uniqueTo": "Suzainswellia",
+	        "uniqueTo": "Colziand",
 		"gold": 3,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
@@ -226,7 +226,7 @@
 	},
 	{
 		"name": "Mall",
-		"uniqueTo": "Suzainswellia",
+		"uniqueTo": "Colziand",
 		"gold": 5,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
