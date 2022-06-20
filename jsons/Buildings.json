@@ -26,7 +26,7 @@
 	    {
         "name": "Hanse",
         "replaces": "Bank",
-        "uniqueTo": "Suzainswellia",      
+        "uniqueTo": "Colziand",      
         "gold": 2,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 15,
@@ -51,7 +51,7 @@
   {
 		"name": "Pyramid",
 		"replaces": "Shrine",
-		"uniqueTo": "Magroonaguio",
+		"uniqueTo": "Fullysia",
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
@@ -62,7 +62,7 @@
 	{
 		"name": "Krepost",
 		"replaces": "Barracks",
-		"uniqueTo": "Magroonaguio",
+		"uniqueTo": "Fullysia",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
@@ -72,7 +72,7 @@
   {
 		"name": "Mud Pyramid Mosque",
 		"replaces": "Temple",
-		"uniqueTo": "Magroonaguio",
+		"uniqueTo": "Fullysia",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"culture": 2,
@@ -179,7 +179,7 @@
 	{
 		"name": "Ceilidh Hall",
 		"replaces": "Opera House",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Suzainswellia",
 		"culture": 4,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
@@ -192,7 +192,7 @@
 	{
 		"name": "Satrap's Court",
 		"replaces": "Bank",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Suzainswellia",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
@@ -204,7 +204,7 @@
 	{
 		"name": "Bazaar",
 		"replaces": "Market",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Fullysia",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -215,7 +215,7 @@
 	},
 	 {
 		"name": "Supermarket",
-	        "uniqueTo": "Colziand",
+	        "uniqueTo": "Suzainswellia",
 		"gold": 3,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
@@ -226,7 +226,7 @@
 	},
 	{
 		"name": "Mall",
-		"uniqueTo": "Colziand",
+		"uniqueTo": "Suzainswellia",
 		"gold": 5,
 		"specialistSlots": {"Merchant": 2},
 		"hurryCostModifier": 25,
@@ -239,7 +239,7 @@
 	{
 		"name": "Floating Gardens",
 		"replaces": "Water Mill",
-		"uniqueTo": "Salumi",
+		"uniqueTo": "Fullysia",
 		"food": 2,
 		"production": 1,
 		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
@@ -262,7 +262,7 @@
 	{
 		"name": "Plaza",
 		"replaces": "Market",
-		"uniqueTo": "Salumi",
+		"uniqueTo": "Fullysia",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -276,7 +276,7 @@
 	{
 		"name": "Longhouse",
 		"replaces": "Workshop",
-		"uniqueTo": "Yanzerhan",
+		"uniqueTo": "Fullysia",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
