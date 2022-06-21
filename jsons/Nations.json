@@ -614,5 +614,11 @@
 
 		"cities": ["Saludon","Saludonio","Libro Saldos","Saludos","Villavicencio", "Medellin","Cali", "Santa Marianna", "Buenaventura", "San Andres", "Peacesee", 
 			   "Sophia", "Leticia","Sal Kristell","Sal Kristina","Paula","Libra Saldine","Baconilla","Hamburger","Duke Baloney"]
+	},
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [182,0,0],
+		"uniques": ["+40% Strength when fighting City-State units and cities","Can only heal by pillaging"]
 	}
 ]
