@@ -83,7 +83,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Honey]"
+			"Provides [2] [Glass]"
 		],
 		"color": [255,216,0]
 	},
@@ -115,7 +115,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Mithril]"
+			"Provides [2] [Porcelain]"
 		],
 		"color": [255,216,0]
 	},
@@ -131,7 +131,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Porcelain]"
+			"Provides [2] [Nutmeg]"
 		],
 		"color": [255,216,0]
 	},
@@ -175,9 +175,9 @@
 			"[+13 Faith] <starting from the [Industrial age]>"
 		],
 		"allyBonusUniques":  [
-			"[+6 Faith] <before the [Heroic age]>",
-			"[+12 Faith] <starting from the [Heroic age]> <before the [Renaissance age]>",
-			"[+26 Faith] <starting from the [Renaissance age]>"
+			"[+6 Faith] <before the [Medieval age]>",
+			"[+12 Faith] <starting from the [Medieval age]> <before the [Industrial age]>",
+			"[+26 Faith] <starting from the [Industrial age]>"
 		],
 		"color": [255,255,255]
 	}
