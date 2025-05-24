@@ -237,6 +237,93 @@
 			{"text": "Horde of ogre on the Balvaria. It helped Saeth of Tugu during the First Balvarian War."},
 		]
 	},
+	{
+		"name": "Dublin",
+		"adjective": ["Irish"],
+		"cityStateType": "Industrial",
+		"startBias": ["Marsh"],
+
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,180,113],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Dublin"]
+	},
+	{
+		"name": "Meldar",
+		"adjective": ["Kolmeiahn"],
+		"cityStateType": "Industrial",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Meldar"]
+	},
+	{
+		"name": "Ferrix",
+		"adjective": ["Ferrix"],
+		"cityStateType": "Industrial",
+		
+		"declaringWar": "The Empire is a disease that thrives in darkness, it is never more alive than when we asleep. It’s easy for the dead to tell you to fight, and maybe it’s true, maybe fighting is useless. Perhaps it’s too late. But I’ll tell you this, if I could do it again, I’d wake up early and be fighting those bastards from the start! Fight the Empire!",
+		"attacked": "But we were sleeping. I’ve been sleeping. And I’ve been turning away from the truth I wanted not to face. There is a wound that won’t heal at the center of the galaxy. There is a darkness reaching like rust into everything around us. We let it grow, and now it’s here. It’s here and it’s not visiting anymore. It wants to stay.",
+		"defeated": "For Ferrix. Stone and Sky.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [204, 102, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Ferrix"]
+	},
+	{
+		"name": "Königsberg",
+		"adjective": ["Prussian"],
+		"cityStateType": "Industrial",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210, 240, 203],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Königsberg"]
+	},
+	{
+		"name": "Taipei",
+		"adjective": ["Taiwanese"],
+		"cityStateType": "Productive",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [96,96,96],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Taipei"]
+	},
+	{
+		"name": "Narkina 5",
+		"adjective": ["THX 1138"],
+		"cityStateType": "Industrial",
+		
+		"declaringWar": "One way out! One way out! One way out!",
+		"attacked": "Attack!",
+		"defeated": "I can't swim, I can't swim!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 128, 0],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
+		"cities": ["Narkina 5"]
+	},
 
 	{
 		"name": "Glaceholm",
