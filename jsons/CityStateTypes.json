@@ -156,13 +156,14 @@
     {
         "name": "Scientific",
         "friendBonusUniques":  [
-            "[+10]% [Science] [in all cities]", 
-          "[+3 Science] [in capital]"
+			"[+3 Faith] <before the [Medieval age]>",
+			"[+6 Faith] <starting from the [Medieval age]> <before the [Industrial age]>",
+			"[+13 Faith] <starting from the [Industrial age]>"
         ],
         "allyBonusUniques":  [
-            "[+10]% [Science] [in all cities]",
-          "[+5 Science] [in capital] <when at war>",
-            "[+15]% [Science] [in all cities] <when not at war>"
+			"[+6 Faith] <before the [Medieval age]>",
+			"[+12 Faith] <starting from the [Medieval age]> <before the [Industrial age]>",
+			"[+26 Faith] <starting from the [Industrial age]>"
         ],
         "color": [255, 255, 0]
     },
