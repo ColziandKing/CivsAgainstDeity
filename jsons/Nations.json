@@ -37,7 +37,8 @@
 		"uniqueText": "+1 Population to all cities settled on Fresh Water \nAll Land-Military units gain the Amphibious promotion \n-33% tile improvement construction time in River tiles",
 		"uniques": ["[-33]% construction time for [All] improvements <in [River] tiles>",
 					"[{Military} {Land}] units gain the [Amphibious] promotion"], 
-		"cities": ["'Nkuhanea","Akhetutan","Sabata","Guzana","Noenna","Chu'ata","Vrybergam","Jundiaí","Pliska","Jayapura","Beikthano",
+		"cities": ["Saludon","Saludonio","Libro Saldos","Saludos","Villavicencio","Leticia","Sal Kristell","Sal Kristina","Libra Saldine",
+			"Baconilla","'Nkuhanea","Akhetutan","Sabata","Guzana","Noenna","Chu'ata","Vrybergam","Jundiaí","Pliska","Jayapura","Beikthano",
 			"Kyaukse","Veptis Parla","Hieraconpolia","Binnaka","Nias","Quirigua","Q'umarkaj","Mamuju","Kaur","Tsymbalka"],
 		"spyNames": ["Heba","Sukaesih","Ma'at","Felish","Naru","Bahe","Atan","Ndruru","Refaat","Neuth"]
 		"civilopediaText": [
