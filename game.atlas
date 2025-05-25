@@ -4,6 +4,41 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Arena of Blood
+  rotate: false
+  xy: 956, 1728
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fertile Catalyst
+  rotate: false
+  xy: 220, 666
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hymn House
+  rotate: false
+  xy: 436, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sulong's Training
+  rotate: false
+  xy: 1732, 216
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Foundry
+  rotate: false
+  xy: 4, 1727
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Salveo
   rotate: false
   xy: 4, 1263
@@ -172,6 +207,20 @@ NationIcons/Rhuffelj
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Bladedancer
+  rotate: false
+  xy: 1388, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Divine Milita 
+  rotate: false
+  xy: 1712, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 Tasia.png
 size: 2048, 2048
@@ -258,6 +307,13 @@ NationIcons/Urush
 NationIcons/Vedic
   rotate: false
   xy: 220, 1403
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wolf Rider
+  rotate: false
+  xy: 760, 1835
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
