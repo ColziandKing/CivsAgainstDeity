@@ -48,7 +48,7 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 70,
-		"requiredTech": "Domestication",
+		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking", 
