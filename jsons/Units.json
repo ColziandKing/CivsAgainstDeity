@@ -1,4 +1,24 @@
-[
+[	{
+		"name": "Bladedancer",
+		"uniqueTo": "Ilythiir",
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"uniques": ["Preachable"],
+		"promotions": ["Elusive"],
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit",
+		"civilopediaText": [
+			{"text": "Notorious for its agility and nimble movements, Bladedancer is an elusive target to hit. They move like a wind."}
+		]
+	},
+
   	{
 		"name": "Divine Milita",
 		"unitType": "Sword",
@@ -20,4 +40,26 @@
 			{"text": "Devout and fanatic follower of the religion. May prevents and remove foreign religion.",}
 		]
 	},
+	{
+		"name": "Wolf Rider",
+		"unitType": "Mounted",
+		"uniqueTo": "Torakj",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 12,
+		"cost": 70,
+		"requiredTech": "Domestication",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking", 
+					"No defensive terrain bonus", 
+					"Preachable"],
+		"promotions": ["Fight Howl","Plunderer"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{"text": "Before saddle-gob was invented, Goblin can't ride a horse because of its height. During that time, goblin ride wolf that is rideable for them and more agile in rough terrains."}
+		]
+	},
+
 ]
