@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Kalimutu",
+		"type": "NaturalWonder",
+		"food": 1,
+		"culture": 3,
+		"science": 2,
+		"occursOn": ["Plains","Grassland"],
+		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
+					"Must be adjacent to [0] [Desert] tiles",
+					"Must be adjacent to [2] to [6] [Elevated] tiles"],
+		"turnsInto": "Lakes",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Phantom Island",
+		"type": "NaturalWonder",
+		"faith": 2,
+		"food": 2,
+		"gold": 2,
+		"overrideStats": true,
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles", 
+					"Comment [Provides a copy of each Strategic and Luxury resource generated on Coast thanks to dedicated building]"],
+		"turnsInto": "Ocean",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
+	},
+]
