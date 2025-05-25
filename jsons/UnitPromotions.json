@@ -1,0 +1,181 @@
+[
+	// Unique Skills
+	{
+		"name": "Dominion Patrol", // Eldariya
+		"uniques": ["[+1] Movement <in [Friendly Land] tiles>", 
+					"[+1] Sight <in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Highly Trained", // Eldariya
+		"uniques": ["[+10]% Strength <when adjacent to a [{Melee} {Land}] unit>"]
+	},
+	{
+		"name": "Water Creature", // Almuria
+		"uniques": ["[+10]% Strength <when fighting in [Fresh Water] tiles> <in [Land] tiles> <with [0] to [0] neighboring [Coast] tiles>", 
+					"[+15]% Strength <when fighting in [Coastal] tiles>", 
+					"May attack when embarked", 
+					"Eliminates combat penalty for attacking across a coast", 
+					"Eliminates combat penalty for attacking over a river", 
+					"[-20]% Strength <when fighting in [Desert] tiles>"]
+	},
+	{
+		"name": "Divine Right", // Louvargia
+		"uniques": ["Prevents spreading of religion to the city it is next to", 
+					"Religious Unit"]
+	},
+	{
+		"name": "Impetus", // Arxia
+		"uniques": ["[+25]% Strength <when attacking> <when above [95] HP>"]
+	},
+	{
+		"name": "Plunderer", // Torakj
+		"uniques": ["Earn [50]% of the damage done to [City] units as [Gold]"]
+	},
+	{
+		"name": "Fight Howl", // Torakj, Townfolk
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"]
+	},
+	{
+		"name": "[Realm Patrol] ability", // Smeheng
+		"uniques": ["[+1] Movement <in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Ignore terrain cost", // Cavegoa
+		"uniques": ["Ignores terrain cost"]
+	},
+	{
+		"name": "Elusive", // Ilythiir
+		"uniques": ["Withdraws before melee combat <with [50]% chance>"]
+	},
+	{
+		"name": "Vampiric Touch", // Morlovia
+		"uniques": ["Heals [15] damage if it kills a unit"]
+	},
+	{
+		"name": "Slow Learner", // Morlovia
+		"uniques": ["[-50]% XP gained from combat"]
+	},
+	{
+		"name": "Alchemist Horizon", // First Order
+		"uniques": ["Can instantly construct a [Matter Transmuter] improvement <by consuming this unit>"]
+	},
+	{
+		"name": "Regenerative Bio-Steel", // First Order
+		"uniques": ["[+10] HP when healing", 
+					"[+10]% Strength <when defending>"]
+	},
+	{
+		"name": "Kiss", // The Order of Witcher
+		"uniques": ["No damage penalty for wounded units"]
+	},
+	{
+		"name": "Kiss", // The Order of Witcher
+		"uniques": ["No damage penalty for wounded units"]
+	},
+	{
+		"name": "Beast Hunter", // The Order of Witcher
+		"uniques": ["Gain [50] [Gold] <upon defeating a [Beast] unit>"]
+	},
+	{
+		"name": "Evangelize Belief", // Sanctum Regalia
+		"uniques": ["Can Spread Religion <for [4] movement> <once>", 
+					"Removes other religions when spreading religion",
+					"Religious Unit"]
+	},
+	{
+		"name": "Unwavering Faith", // Sanctum Regalia
+		"uniques": ["No damage penalty for wounded units"]
+	},
+	{
+		"name": "Trawl", // Marunesia
+		"uniques": ["Can instantly construct a [Ulu Wae] improvement <by consuming this unit>"]
+	},
+	{
+		"name": "Qigong", // Tianwu
+		"uniques": ["[+1] Movement"]
+	},
+	{
+		"name": "Quick Study", // Thorin
+		"uniques": ["[+50]% XP gained from combat"]
+	},
+	{
+		"name": "Reactive Armor", // Thorin
+		"uniques": ["Withdraws before melee combat <with [66]% chance>"]
+	},
+	{
+		"name": "[Laskar] ability", // Nas
+		"uniques": ["[+25]% Strength <vs [Sword] units>", 
+					"[+25]% Strength <vs [Gunpowder] units>"]
+	},
+	{
+		"name": "[Entilon] ability", // Rain Forest
+		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>", 
+					"[+33]% Strength <when fighting in [Jungle] tiles>"]
+	},
+	{
+		"name": "[Lich] ability", // Necropoleis
+		"uniques": ["No damage penalty for wounded units"]
+	},
+	{
+		"name": "Troll's Skin", // The Trolls
+		"uniques": ["[+20]% Strength <when defending>"]
+	},
+	{
+		"name": "[Alessia] ability", // Sulvana
+		"uniques": ["[+1] additional attacks per turn", 
+					"Can move after attacking"]
+	},
+	{
+		"name": "Bloodbath", // Urush
+		"uniques": ["Heals [10] damage if it kills a unit"],
+	},
+	{
+		"name": "Seductive Submission", // Red Moon
+		"uniques": ["May capture killed [Land] units"]
+	},
+	{
+		"name": "Snowman", // Frostmorrow
+		"uniques": ["[+1] Movement <in [Tundra] tiles>", "Double movement in [Snow]"]
+	},
+	{
+		"name": "No Suicide", // Barbarians Recon, Sword and Anti-Cav
+		"uniques": ["Can only attack [Civilian] units", "Can only attack [Military] units", "[+10]% Strength <vs [Ranged] units> <when defending>"]
+	},
+	
+	
+	/*{
+		"name": "Life Treasure", // Tianwu
+		"uniques": ["Access to life treasure skill"]
+	},
+	{
+		"name": "Dao Bone",
+		"uniques": ["[+50]% XP gained from combat", 
+					"Only available <for units with [Life Treasure]>"],
+		"unitTypes": ["Monk"]
+	},
+	{
+		"name": "Demonic Heart",
+		"uniques": ["Heals [15] damage if it kills a unit", 
+					"Only available <for units with [Life Treasure]>"],
+		"unitTypes": ["Monk"]
+	},
+	{
+		"name": "Azzure Blood",
+		"uniques": ["[+10] HP when healing", 
+					"Only available <for units with [Life Treasure]>"],
+		"unitTypes": ["Monk"]
+	},
+	{
+		"name": "Dragon Soul",
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", 
+					"Only available <for units with [Life Treasure]>"],
+		"unitTypes": ["Monk"]
+	},
+	{
+		"name": "Golden Eyes",
+		"uniques": ["[+1] Sight", 
+					"[+1] Sight <in [Hill] tiles>", 
+					"Only available <for units with [Life Treasure]>"],
+		"unitTypes": ["Monk"]
+	},*/
+]
