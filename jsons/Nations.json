@@ -417,7 +417,7 @@
 	{
 		"name": "Taipei",
 		"adjective": ["Taiwanese"],
-		"cityStateType": "Productive",
+		"cityStateType": "Industrial",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
