@@ -4,7 +4,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/'Nkuhanea
+NationIcons/Salveo
   rotate: false
   xy: 4, 1263
   size: 100, 100
@@ -165,7 +165,7 @@ NationIcons/Colziand
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Sulvana
+NationIcons/Rhuffelj
   rotate: false
   xy: 1840, 324
   size: 100, 100
@@ -220,7 +220,7 @@ NationIcons/Tianwu
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Torakj
+NationIcons/Spears of Jeox
   rotate: false
   xy: 220, 1619
   size: 100, 100
