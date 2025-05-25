@@ -1,4 +1,19 @@
-[	{
+[	
+	{
+		"name": "Arena of Blood",
+
+		"replaces": "Colosseum",
+		"uniqueTo": "Spears of Jeox",
+		"maintenance": 0,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+2 Gold, +1 Happiness] [in this city] <when at war>"],
+		"requiredTech": "Construction",
+		"civilopediaText": [
+			{"text": "An arena where qualification of Tharsara competition were held, sacred event for Drow to prove their self."}
+		]
+	},
+	{
 		"name": "Fertile Catalyst",
 		"replaces": "Water Mill",
 		"uniqueTo": "Salumi",
@@ -26,5 +41,37 @@
 		"civilopediaText": [
 			{"text": "Pious Louvargians built this structure to worship and praise their Goddess."}
 		]
+	},		
+	{
+		"name": "Sulong's Training",
+		"replaces": "Barracks",
+		"uniqueTo": "Rhuffelj",
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [15] XP [in this city]"],
+		"requiredTech": "Bronze Working",
+		"civilopediaText": [
+			{"text": "A method to control one's emotion and power, created by Raflar Sulong, a beastman, for beastmen."}
+		]
 	},
+
+	{
+		"name": "The Foundry",
+		"replaces": "Forge",
+		"uniqueTo": "Salveo",
+		"faith": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["Comment [Research Theology vs Metal Casting]", 
+					"Comment [Can be built in all cities]", 
+					"[+15]% Production when constructing [Land] units [in this city]",
+					"[+1 Production] from [Iron] tiles [in this city]",
+					"All newly-trained [{Military} {Land}] units [in this city] receive the [Unwavering Faith] promotion"],
+		"requiredTech": "Theology",
+		"civilopediaText": [
+            {"text": "A place where all knights are trained and are born anew, it is also a hotspot for repentance."}
+        ]
+	},
+
 ]
