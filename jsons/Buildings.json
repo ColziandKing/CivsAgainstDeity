@@ -1,0 +1,30 @@
+[	{
+		"name": "Fertile Catalyst",
+		"replaces": "Water Mill",
+		"uniqueTo": "'Nkuhanea",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [River]", "[+1 Food] from [River] tiles [in this city]", "[+1 Faith] per [5] population [in this city]"],
+		"requiredTech": "The Wheel",
+		"civilopediaText": [
+			{"text": "Blessing of nature, increase yield from river tiles and bonus faith for every 5 population."}
+		]
+	},
+	{
+		"name": "Hymn House",
+		"replaces": "Temple",
+		"uniqueTo": "Louvargia",
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["Only available <when religion is enabled>", "[+1 Faith] from [Incense] tiles [in this city]", 
+					"[+1 Culture] per [3] population [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Philosophy",
+		"civilopediaText": [
+			{"text": "Pious Louvargians built this structure to worship and praise their Goddess."}
+		]
+	},
+]
