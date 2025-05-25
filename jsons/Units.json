@@ -1,6 +1,6 @@
 [	{
 		"name": "Bladedancer",
-		"uniqueTo": "Ilythiir",
+		"uniqueTo": "Rhuffelj",
 		"replaces": "Swordsman",
 		"unitType": "Sword",
 		"movement": 2,
@@ -22,7 +22,7 @@
   	{
 		"name": "Divine Milita",
 		"unitType": "Sword",
-		"uniqueTo": "Louvargia",
+		"uniqueTo": "Salveo",
 		"replaces": "Crusader",
 		"movement": 2,
 		"strength": 14,
@@ -43,7 +43,7 @@
 	{
 		"name": "Wolf Rider",
 		"unitType": "Mounted",
-		"uniqueTo": "Torakj",
+		"uniqueTo": "Spears of Jeox",
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 12,
