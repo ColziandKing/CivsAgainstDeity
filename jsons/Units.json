@@ -1,9 +1,9 @@
 [
   	{
-		"name": "Divine Order",
+		"name": "Divine Milita",
 		"unitType": "Sword",
 		"uniqueTo": "Louvargia",
-		"replaces": "Swordsman",
+		"replaces": "Crusader",
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
