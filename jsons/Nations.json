@@ -5,6 +5,123 @@
 // Before the Doom of the Old World
 	// The Pangaea Saga
 	{
+		"name": "Salveo",
+		"leaderName": "Alexander",
+		"adjective": ["Louvargian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The Kingdom of Louvargia was a kingdom centered in north-central of Eustasia. Louvar served as the kingdom's capital for many decades but relocated to Malovar due to extreme cold and infertile land. Emerging from the earlier Artiza civilization, the kingdom was likely founded after the Great Famine of Artiza. Beginning with the reign of Perdiccas, Louvargia created its own trade currency and trading system. Louvargia culture developed in due to trade with Windemer, evident in the use of Haz'ie script. Despite their long lives, The Kingdom of Louvargia are not well-known as Louvargians remained isolated..",
+		"startIntroPart2": "Revered Alexander, the Favored Son of Goddess, Father of the Fertile Crescent, Louvargians rest upon your responsibility to the Great Mother. Will you keep the Mother's grace upon this land and lead your people into the long-lasted age of prosperity? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "We won't let your arrogance upon Her divinity be permitted! And we will attain Her benevolence!",
+		"attacked": "Act of insolence against our Mother can't be tolerated! By our Mother's embrace that you shall pay the price!",
+		"defeated": "Mother, why hast thou forsaken us? How come the Motherland be a barren land of cold?",
+		"afterPeace": "Be happy of the fact that Mother still forgives you.",
+		"introduction": "Greetings strangers, I am Alexander, the revered son of Louvargia, come and feast with us! These are Her blessings of good harvest.",
+		
+		"neutralHello": "Goddess bless us.",
+		"hateHello": "Speak!",
+		"tradeRequest": "With guidance from our Mother, we've come to arrange an agreement with you.",
+		
+		"outerColor": [237,216,184],
+		"innerColor": [  0, 54,255],
+		"uniqueName": "Her Biting's Embrace",
+		"uniqueText": "+1 [Faith] from All Farm adjacent to Blessed Farm \nEvery Blessed Farm in Tundra provides +1 [Gold], +1 [Production] \nFree Divine Order appears upon discovering Theology",
+		"uniques": ["[+1 Faith] from every [Farm] <with [1] to [6] neighboring [Blessed Farm] tiles>", 
+					"[+1 Faith] from every [Terrace farm] <with [1] to [6] neighboring [Blessed Farm] tiles>", 
+					"[+1 Faith] from every [Blessed Farm] <with [1] to [6] neighboring [Blessed Farm] tiles>", 
+					"[+1 Gold, +1 Production] from every [Blessed Farm] <in [Tundra] tiles>",
+					"Free [Divine Order] appears <upon discovering [Theology] technology>"],
+		"cities": ["Louvar","Malovar","Orivar","Resivar","Amolivar","Luivar","Amanivar","Pialivar","Jalarivar","Valarivar",
+			"Urivar","Komivar","Luxuvar","Kurivar","Liqovar","Albuvar","Rasutovar","Kashvar","Aslar","Qarar"],
+		"spyNames": ["Perdiccas","Alcetas","Orestes","Arrhidaeus","Amyntas","Myles","Amyklas","Kynortas","Tyndareos","Orestes"],
+		"civilopediaText": [
+			{"text": "The Kingdom of Louvargia was a kingdom centered in north-central of Eustasia. Louvar served as the kingdom's capital for many decades but relocated to Malovar due to extreme cold and infertile land. Emerging from the earlier Artiza civilization, the kingdom was likely founded after the Great Famine of Artiza. Beginning with the reign of Perdiccas, Louvargia created its own trade currency and trading system. Louvargia culture developed in due to trade with Windemer, evident in the use of Haz'ie script. It is through this that the Louvargians began to worship Inua, The Goddess of Tundra, and adopted as state religion under Alexander of Louvargia."},
+			{"text": "During his reign, Alexander made many changes to improve the social order in the country by developing and teaching work ethic. Alexander built many Hymn Houses to sing and chanting praises upon the Goddess Inua, and by Her mercy and magnificence, the land of Malovar extending to the Orivar region and the outskirts of Amolivar was transformed into fertile land, an area which was later dubbed the Fertile Crescent. Because of that, the Louvargians become intolerant of other religions, fearing that the Goddess will angry and lift Her blessings upon these fetile land."},
+			{"separator": true},
+			{"text": "Louvargia is a 'peace-loving' and religious civilization. They prefer to stay in their own tundra domain, believing in their Goddess which reign over Tundra."},
+			{"text": "Tips to play:"},
+			{"text": "Louvargia benefits from having tall cities because of its unique building."},
+			{"text": "Make sure to build Farms as much as possible to maximize your population growth."}
+		]
+	},
+	{
+		"name": "Spear of Jeox",
+		"leaderName": "Anzogh",
+		"adjective": ["Torakis"],
+		"startBias": ["Avoid [Desert]"],
+		
+		"startIntroPart1": "Torakj were a nomadic goblins who lived in Llotidea. According to Manthrill's manuscript, they were first reported living north of the Mogrim Forest and east of the Ngawi Desert. During the conflict between Manthrill and Thallin, Torakj arrived on the Galk, and after establishing a colony on Srord, they had established a vast, if short-lived, dominion in Llotidea, conquering and destroying Manthrill and many other peoples living outside of Thallin's borders. Torakj, especially under their leader Anzogh, made frequent and devastating raids into the Thallin Empire, and became the instigator of the Jag'ar Rebellion which caused the Thallin collapsed.",
+		"startIntroPart2": "Fearsome Champion, Anzogh The Warrior King, your people eagerly follow you into battle and conquest. Will you regain your prominence and glory? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Now comes a storm you cannot escape. You can only hope for a quick death.",
+		"attacked": "Agh, you mess with me, you'll pay, you'll pay...",
+		"defeated": "No, Anzogh knows no defeat!",
+		"afterPeace": "HAHAHAHA, run weak run!",
+		"introduction": "How do you do? You stand before Anzogh, just Anzogh.",
+		
+		"neutralHello": "What do you want now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "A trade request one might say.",
+		
+		"outerColor": [ 12, 75, 25],
+		"innerColor": [255,255,255],
+		"uniqueName": "Horde of Greens",
+		"uniques": ["[+1] Movement <in [Enemy Land] tiles> <for [Land] units>", 
+					"[+10]% to Flank Attack bonuses <for [Land] units>",
+					"[+2] XP gained from combat <for [Land] units>", 
+					"Receive triple Gold from Barbarian encampments and pillaging Cities"],
+		"cities": ["Torakj","Mogrim","Gaul","Dade","Talu","Bullu","Bao","Kasel","Neuss","Herne",
+			"Bonn","Loyn","Wisbaden","Horkj","Skurkj","Krisz","Ithmakj","Stregz","Galk","Srord"],
+		"spyNames": ["Driog","Dunnukz","Flog","Kaark","Oirig","Roig","Sheyu","Kaide","Kadul","Nomadak"],
+		"civilopediaText": [
+			{"text": "Torakj were a nomadic goblins who lived in Llotidea. According to Manthrill's manuscript, they were first reported living north of the Mogrim Forest and east of the Ngawi Desert. As the goblins are a male-dominated species, they must depend on abducting females from multiple species and they forcefully impregnate them by torturing and raping women. After the emergence of Anzogh The Champion, the goblins began to attack major cities with faster and more organized attacks."},
+			{"text": "During the conflict between Manthrill and Thallin, Torakj arrived on the Galk, and after establishing a colony on Srord, they had established a vast, if short-lived, dominion in Llotidea, conquering and destroying Manthrill and many other peoples living outside of Thallin's borders. Torakj, especially under their leader Anzogh, made frequent and devastating raids into the Thallin Empire, and became the instigator of the Jag'ar Rebellion which caused the Thallin collapsed."},
+			{"separator": true},
+			{"text": "Famous as weak individuals, they are very skilled at looting cities especially under the leadership of Anzogh The Champion."},
+			{"text": "Tips to play:"},
+			{"text": "Attack and plunder cities using formation, to utilize their Flank attack bonus."},
+			{"text": "If possible, use Wolf Rider to attack cities since they don't get attack penalty and create a good combination with Torakj's unique."}
+		]
+	},
+	{
+		"name": "Rhuffelj",
+		"leaderName": "Lulla",
+		"adjective": ["Sulvani"],
+		"preferredVictoryType": "Diplomatic",
+	
+		"startIntroPart1": "The Sulvani Elves are a group of elves from the Blathan Jungle. They are known for their love of music, singing, and the arts. In the past, the Sulvani elves lived in the southern reaches of the Rain Forest alongside the Niranni elves. However, the Sulvani later became distant from the Niranni, as the Niranni's desire for power and control caused tension between the two groups. The most prominent figure of Sulvana is Queen Lulla Artiana, who leads her people in the liberation of the Blathan Jungle and manages to kill Azaniroth. Later, she joined the Aeyris Alliances and built the Aschar Grove for the alliances.",
+		"startIntroPart2": "Praises upon her serene highnes, Queen Lulla Artiana, the Favored Daughter of the Gods, Shield To the Citizens of Sulvana. You love peace but mercilessly struck back at the enemies of your people, sacrificing their leaders in retribution for the insults dealt to your predecessor. The glory of the Sulvani was restored only by the guidance afforded by your wisdom. Queen Lulla, will you bring about a new golden age for the Sulvana people? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "By the grace of God, your days are numbered.",
+		"attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+		"defeated": "You have triumphed over us. The day is yours.",
+		"afterPeace": "Never ever come to us again!",
+		"introduction": "We are pleased to meet you.",
+		
+		"neutralHello": "Hello, again.",
+		"hateHello": "Don't come near us!",
+		"tradeRequest": "Your goods seems good, why don't we help each other?",
+		
+		"outerColor": [228,208,43],
+		"innerColor": [  0,  0, 0],
+		"uniqueName": "Arrow of the East",
+		"uniqueText": "+10% Great Person generation in all cities \nGreat Artist generated by Sulvana become the Maeron, which can create the Sacred Grove",
+		"uniques": ["[+10]% Great Person generation [in all cities]"], 
+		"cities": ["Blathanna","Asylla","Izapa","Kutha","Brithombar","Ollmelean","Reverion","Emnha","Tula","Chitta",
+			"Ostia","Lanchasia","Aquileia","Adria","G'eldree","Santana","Prassia","Eldamar","Herakleia","Eandall"],
+		"spyNames": ["Sylvanna","Folwin","Arlen","Mirthal","Belias","Dara","Farryn","Vanya","Errora","Lyeneora"],
+		"civilopediaText": [
+			{"text": "The Sulvani Elves are a group of elves who are famous for their love of music, singing, and arts. They inhabit the land of Java in the southern reaches of Rain Forest, but many of them later migrate to Blathan Jungle. Both groups of elves, Niranna and Sulvana, are descendants of the Chorislaviani, and coexist under one banner. However, the Sulvani later became distant from the Niranni, as the Niranni's desire for power and control caused tension between the two groups."},
+			{"text": "The most prominent figure of Sulvana is Queen Lulla Artiana, who leads her people in the struggle against Zorgorath's forces. The counterattack led by Lulla was carried out after Zorgorath and most of his troops had departed for the Nevdes through the Endless Door. In the Liberation of the Blathan Jungle, Lulla manages to kill Azaniroth and closes the Slumbering Gate, one of the gates of the Endless Door, to prevent Zorgorath's army coming back through the portal. Later, she joined the Aeyris Alliances and built the Aschar Grove for the alliances."},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": "Choose Divine Spark when you choose a Pantheon, and settle next to fresh water to gain access to Garden."},
+			{"text": "Fokus on generate Maeron to construct Sacred Grove."}
+		]
+	},
+	{
 		"name": "Salumi",
 		"leaderName": "Erish",
 		"adjective": ["Salumian"],
