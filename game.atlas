@@ -998,7 +998,7 @@ TileSets/FantasyHex/Tiles/Nuclear Waste Storage
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Oasis
+TileSets/FantasyHex/Tiles/Oasis1
   rotate: false
   xy: 1285, 289
   size: 32, 28
