@@ -27,8 +27,10 @@
 			"Usi","Cengkir","Cakkekh","Degel","Dagiang","Keureut","Gepuk","Recah","Tiir","Bachin","Bosog","Lendiren","Slilit"],
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
-		"uniqueName": "Allied Domain Rule",
-		"uniques": [
+		"uniqueName": "Bond and Oath",
+		"uniques": ["[+1 Food] from every [Fresh Water]", 
+					"[+15]% Strength <when fighting in [Desert] tiles>", 
+					"[+15]% Strength <when fighting in [Friendly Land] tiles>",
 			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
 			"Science gained from research agreements [+25]%","Cannot build [Warrior] units <hidden from users>",
 			"Free Social Policy <upon entering a new era>","Starts with [Professional Army] adopted",
@@ -64,9 +66,18 @@
 		"innerColor": [255,255,255],
 
 		"uniqueName": "Fullysianth Song",
+		"uniqueText": "+2 [Food], +1 [Production] for cities settled next to a Mountain \nFree Settler appears upon discovering Calendar \nReceive free strongest available Sword-type or Gunpowder-type units upon building a Courthouse",
 		"uniques": [
                     "Quantity of strategic resources produced by the empire +[50]%",
-                    "[+2 Food] [in all cities connected to capital]",
+                    "[+2 Food] [in all cities connected to capital]","[+2 Food, +1 Production] in cities on [Land] tiles <with [1] to [6] neighboring [Mountain] tiles>", 
+					"Free [Settler] appears <upon discovering [Calendar] technology>", 
+					"Free [Warrior] appears <upon constructing [Courthouse]> <before discovering [Iron Working]>", 
+					"Free [Battering Ram] appears <upon constructing [Courthouse]> <after discovering [Iron Working]> <before discovering [Steel]>",
+					"Free [Longswordsman] appears <upon constructing [Courthouse]> <after discovering [Steel]> <before discovering [Gunpowder]>",
+					"Free [Musketman] appears <upon constructing [Courthouse]> <after discovering [Gunpowder]> <before discovering [Rifling]>",
+					"Free [Rifleman] appears <upon constructing [Courthouse]> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
+					"Free [Infantry] appears <upon constructing [Courthouse]> <after discovering [Replaceable Parts]> <before discovering [Lasers]>",
+					"Free [Mechanized Infantry] appears <upon constructing [Courthouse]> <after discovering [Lasers]>"]
 		],
 		"spyNames": ["Ullysia", "Syril", "Dedra", "Dilla Nho", "Kennor","Muriel","Agwe","Ktarla","Anala","Gepeng","Sukae","Tamla"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran",
@@ -299,10 +310,14 @@
 	        "outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 
-		"uniqueName": "International Diplomatics",
+		"uniqueName": "Allied Continent",
 		"uniques": [
 			"When declaring friendship, both parties gain a [25]% boost to great person generation",
-			"[+1 Culture] per [4] population [in all cities]",
+			"[+1 Culture] per [4] population [in all cities]","Enables embarkation for land units <starting from the [Ancient era]>", 
+					"Enables [All] units to enter ocean tiles <starting from the [Classical era]>",
+					"[{Military} {Land}] units gain the [Water Creature] promotion", 
+					"[+100]% Strength <when defending> <when [Embarked]> <for [All] units>",
+					"Double quantity of [Whales] produced"
 		],
 		"spyNames": ["Uzaine", "Andor", "Vassalia", "Bix", "Lear","Ishana","Orta","Ram","Kae","Kelda","Leena","Anne","Andre","Alwyn","Gablog","Kabul","Dembik","Pengtol"],
 
