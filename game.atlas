@@ -46,6 +46,55 @@ BuildingIcons/The Foundry
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Cultural
+  rotate: false
+  xy: 956, 1512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Industrial
+  rotate: false
+  xy: 544, 972
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mercantile--Gahaldur
+  rotate: false
+  xy: 1408, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mercantile-Concordia
+  rotate: false
+  xy: 1408, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mercantile-Crotoa
+  rotate: false
+  xy: 1408, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mercantile-Frostwaste
+  rotate: false
+  xy: 1408, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Mercantile-Tonthon
+  rotate: false
+  xy: 1408, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Salveo
   rotate: false
   xy: 4, 1263
