@@ -25,8 +25,8 @@
 		"hateHello": "What now?",
 		"tradeRequest": "I think it would be beneficial for both of us to conduct in a trade.",
 		
-		"outerColor": [84, 43, 11],
-		"innerColor": [12,242,189],
+		"outerColor": [153,50,204],
+		"innerColor": [240,220,20],
 		"uniqueName": "Higba's Ingenuity",
 		"uniqueText": "+1 Production from every 2 ages for cities settled on Hill \nReceive free Orichalcum Golem upon discovering Engineering",
 		"uniques": ["Free [Battering Ram] appears <upon discovering [Engineering] technology>", 
