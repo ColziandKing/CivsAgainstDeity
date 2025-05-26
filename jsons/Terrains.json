@@ -2,7 +2,7 @@
 	// Natural Wonders
 	{
 		"name": "Ship Graveyard",
-		"type": "NaturalWonder",
+		"type": "TerrainFeature",
 		"production": 2,
 		"science": 1,
 		"occursOn": ["Ocean"],
@@ -11,7 +11,8 @@
 			"Must be adjacent to [6] [Water] tiles",
 			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
 			"Occurs in groups of [2] to [2] tiles",
-			"Neighboring tiles will convert to [Coast]"
+			"Neighboring tiles will convert to [Coast]",
+			"Rare feature"
 		],
 		"turnsInto": "Coast",
 		"impassable": true,
@@ -19,45 +20,13 @@
 		"weight": 10
 	},
 	{
-		"name": "Army Depot",
-		"type": "NaturalWonder",
-		"culture": 1,
-		"occursOn": ["Wasteland", "Badlands", "Tundra", "Mountain"],
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] to [4] [Mountain] tiles",
-			"Must be adjacent to [3] to [6] [Elevated] tiles",
-			"Must be adjacent to [0] to [3] [Desert] tiles",
-			"Must be adjacent to [0] to [3] [Tundra] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Missile Complex",
-		"type": "NaturalWonder",
-		"science": 1,
-		"overrideStats": true,
-		"occursOn": ["Badlands"],
-		"turnsInto": "Badlands",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [1] to [6] [Jungle] tiles"
-		],
-		"weight": 2
-	},
-	{
 		"name": "Research Facility",
 		"type": "NaturalWonder",
 		"science": 4,
 		"gold": 1,
 		"overrideStats": true,
-		"occursOn": ["Badlands"],
-		"turnsInto": "Badlands",
+		"occursOn": ["Mountain"],
+		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
 		"uniques": [
@@ -67,36 +36,18 @@
 		"weight": 1
 	},
 	{
-		"name": "Oasis",
-		"type": "NaturalWonder",
-		"occursOn": ["Desert"],
-		"turnsInto": "Desert",
-		"food": 3,
-		"gold": 3,
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Wasteland] tiles",
-			"Must be adjacent to [2] to [6] [Hill] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Fresh water"
-		],
-		"unbuildable": true,
-		"impassable": true,
-		"weight": 10
-	},
-	{
 		"name": "Soft Drinks Factory",
 		"type": "NaturalWonder",
-		"gold": 1,
+		"gold": 2,
 		"culture": 1,
 		"happiness": 1,
-		"occursOn": ["Wasteland", "Badlands"],
+		"occursOn": ["Plains","Grassland"],
 		"uniques": [
 			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
-			"Must be adjacent to [0] [Toxic Waste] tiles",
+			"Must be adjacent to [0] [River] tiles",
 			"Must be adjacent to [0] to [2] [Hill] tiles"
 		],
 		"turnsInto": "Mountain",
@@ -125,7 +76,7 @@
 		"food": 1,
 		"science": 3,
 		"culture": 1,
-		"occursOn": ["Tundra", "Permafrost"],
+		"occursOn": ["Tundra", "Snow"],
 		"uniques": [
 			"Must be adjacent to [1] to [5] [Coast] tiles",
 			"Must be adjacent to [1] [Mountain] tiles",
@@ -137,31 +88,11 @@
 		"weight": 10
 	},
 	{
-		"name": "Mainframe AI Ruins",
-		"type": "NaturalWonder",
-		"science": 2,
-		"production": 2,
-		"occursOn": ["Wasteland", "Badlands", "Desert"],
-		"uniques": [
-			"Must be adjacent to [1] to [2] [Mountain] tiles",
-			"Must be adjacent to [0] [Toxic Waste] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"civilopediaText": [
-			{
-				"text": "This Mainframe was estimated to have controlled hundreds of drones back when it was still operational during the Old World."
-			}
-		],
-		"weight": 5
-	},
-	{
 		"name": "Hydroelectric Dam",
 		"type": "NaturalWonder",
 		"gold": 2,
 		"science": 1,
-		"occursOn": ["Badlands", "Mountain"],
+		"occursOn": ["Plains","Grassland", "Mountain"],
 		"uniques": [
 			"Must be adjacent to [1] to [6] [Lakes] tiles",
 			"Fresh water"
@@ -172,59 +103,11 @@
 		"weight": 5
 	},
 	{
-		"name": "Nuclear Waste Storage",
-		"type": "NaturalWonder",
-		"culture": 1,
-		"occursOn": ["Desert"],
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Wasteland] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Must be adjacent to [0] to [4] [Elevated] tiles",
-			"Must be adjacent to [1] to [6] [Mountain] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Vault of Records",
-		"type": "NaturalWonder",
-		"faith": 1,
-		"culture": 1,
-		"occursOn": ["Desert", "Badlands"],
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Wasteland] tiles",
-			"Must be adjacent to [0] [Tundra] tiles",
-			"Must be adjacent to [0] [Toxic Waste] tiles",
-			"Must be adjacent to [3] to [6] [Desert] tiles"
-		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Space Station Wreckage",
-		"type": "NaturalWonder",
-		"science": 1,
-		"production": 1,
-		"occursOn": ["Badlands", "Wasteland"],
-		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
-			"Must be adjacent to [0] [Desert] tiles"],
-		"turnsInto": "Wasteland",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
 		"name": "Mining Pit",
 		"type": "NaturalWonder",
 		"science": 1,
-		"production": 1,
-		"occursOn": ["Badlands", "Wasteland", "Tundra", "Permafrost"],
+		"production": 2,
+		"occursOn": ["Plains","Grassland", "Desert", "Tundra", "Snow"],
 		"uniques": ["Must be adjacent to [1] to [6] [Mountain] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
