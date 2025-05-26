@@ -311,6 +311,20 @@ NationIcons/Vedic
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Kalimutu
+  rotate: false
+  xy: 1988, 1799
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Phantom Island
+  rotate: false
+  xy: 713, 1140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 UnitIcons/Wolf Rider
   rotate: false
   xy: 760, 1835
