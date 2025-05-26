@@ -77,7 +77,7 @@
 					"Free [Musketman] appears <upon constructing [Courthouse]> <after discovering [Gunpowder]> <before discovering [Rifling]>",
 					"Free [Rifleman] appears <upon constructing [Courthouse]> <after discovering [Rifling]> <before discovering [Replaceable Parts]>",
 					"Free [Infantry] appears <upon constructing [Courthouse]> <after discovering [Replaceable Parts]> <before discovering [Lasers]>",
-					"Free [Mechanized Infantry] appears <upon constructing [Courthouse]> <after discovering [Lasers]>"]
+					"Free [Mechanized Infantry] appears <upon constructing [Courthouse]> <after discovering [Lasers]>"
 		],
 		"spyNames": ["Ullysia", "Syril", "Dedra", "Dilla Nho", "Kennor","Muriel","Agwe","Ktarla","Anala","Gepeng","Sukae","Tamla"],
 		"cities": ["Reigna","Thraymond","Proviencia","Liencia","Sheenran",
