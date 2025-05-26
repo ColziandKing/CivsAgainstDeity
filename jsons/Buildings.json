@@ -43,6 +43,25 @@
 		]
 	},		
 	{
+		"name": "Royal Inventor's Assembly",
+		"uniqueTo": "Kolmeiahn",
+		"replaces": "Ironworks",
+		"cost": 150,
+		"production": 8,
+		"culture": 1,
+		"science": 3,
+		"isNationalWonder": true,
+		"uniques": ["Cost increases by [25] per owned city", 
+					"Provides [1] [Porcelain]", 
+					"[+1 Science] from [Manufactory] tiles [in all cities]", 
+					"Free [Great Engineer] appears"],
+		"requiredTech": "Steel",
+		"civilopediaText": [
+			{"text": "Magnificent workplace, the only place where Orichalcum Ingots were made."}
+		]
+	},
+	
+	{
 		"name": "Sulong's Training",
 		"replaces": "Barracks",
 		"uniqueTo": "Rhuffelj",
@@ -54,7 +73,24 @@
 		"civilopediaText": [
 			{"text": "A method to control one's emotion and power, created by Raflar Sulong, a beastman, for beastmen."}
 		]
+	},	
+	{
+		"name": "Tinkerer's Depot",
+		"uniqueTo": "Kolmeiahn",
+		"replaces": "Observatory",
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Public School",
+		"uniques": ["Must be next to [Mountain]", 
+					"[+10]% Production when constructing [Construct] units [in this city]", 
+					"[+1 Science] from [Mine] tiles [in this city]"],
+		"requiredTech": "Astronomy",
+		"civilopediaText": [
+			{"text": "In addition to observing terrestrial, marine, or celestial events, this building is a residence for dwarven tinkerer to study and mess around with their invention."}
+		]
 	},
+
 
 	{
 		"name": "The Foundry",
