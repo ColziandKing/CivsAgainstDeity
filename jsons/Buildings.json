@@ -1,5 +1,29 @@
 [	
 	{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
+	},
+  {
+		"name": "Esplanade Theater",
+		"replaces": "Opera House",
+		"uniqueTo": "Singapore",
+		"culture": 4,
+		"happiness": 1,
+		"specialistSlots": {"Artist": 2},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 0,
+		"requiredTech": "Acoustics",
+		"uniques": [
+		  "Destroyed when the city is captured",
+		  "[+1 Culture] from every specialist [in this city]"
+		]
+  },
+	{
 		"name": "Arena of Blood",
 
 		"replaces": "Colosseum",
