@@ -1,4 +1,12 @@
 [
+    {
+        "name": "Medic",
+        "prerequisites": ["Shock I", "Drill I","Ambush Formation I", "Scouting II", "Survivalism II"],
+        "uniques": [
+            "All adjacent units heal [+5] HP when healing"
+        ],
+        "unitTypes": ["Civilian","Sword","Gunpowder","Paratrooping","Mounted","Scout"]
+    },
 	// Unique Skills
 	{
 		"name": "Dominion Patrol", // Eldariya
