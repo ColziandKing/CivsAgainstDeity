@@ -680,9 +680,10 @@
 	{
 		"name": "Glaceholm",
 		"adjective": ["Glaceholmian"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Agrarian",
 		"startBias": ["Tundra"],
-		"uniques": ["[+1] Movement <for [{Military} {Melee}] units> <in [Tundra] tiles>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"[+1] Movement <for [{Military} {Melee}] units> <in [Tundra] tiles>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -697,9 +698,10 @@
 	{
 		"name": "Hellsand",
 		"adjective": ["Primitive"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Agrarian",
 		"startBias": ["Desert"],
-		"uniques": ["[+1] Sight <for [Scout] units> <in [Desert] tiles>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"[+1] Sight <for [Scout] units> <in [Desert] tiles>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -711,10 +713,11 @@
 	{
 		"name": "Highlander",
 		"adjective": ["Highlanderi"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Agrarian",
 		"startBias": ["Hill"],
 		"style": "Elven",
-		"uniques": ["Free [Composite Bowman] appears <upon discovering [Construction] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"Free [Composite Bowman] appears <upon discovering [Construction] technology>"],
 
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
 		"attacked": "You can see how fruitless this will be for you... right?",
@@ -726,10 +729,11 @@
 	{
 		"name": "Irgask",
 		"adjective": ["Ego-Goblin"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Agrarian",
 		"startBias": ["Coast"],
 		"style": "Goblin",
-		"uniques": ["[+15]% [Food] [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"[+15]% [Food] [in capital]"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
 		"attacked": "Why do we fight? Because Inanna demands it. Now, witness the power of Irgaskians!",
@@ -741,9 +745,10 @@
 	{
 		"name": "Panema",
 		"adjective": ["Panemians"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Agrarian",
 		"style": "Human",
-		"uniques": ["Starts with [Pottery]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+			"Starts with [Pottery]"],
 
 		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1039,7 +1044,7 @@
 					"[Gunpowder] units gain the [Pride] promotion", 
 					"[Archery] units gain the [Pride] promotion", 
 					"[Armored] units gain the [Charge] promotion", 
-					"[+15]% Strength <within [1] tiles of a [Barbarian encampment]>"]
+					"[+15]% Strength <within [2] tiles of a [Barbarian encampment]>"]
 	}
     ]
 
