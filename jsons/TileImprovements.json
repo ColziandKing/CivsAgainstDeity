@@ -110,6 +110,7 @@
 		"name": "Settlement",
 		"gold": 1,
 		"culture": 1,
+		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
@@ -129,10 +130,10 @@
 	{
 		"name": "Outpost",
 		"production": 2,
+		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
-			"Gives a defensive bonus of [100]%",
+			"Gives a defensive bonus of [75]%",
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Provides [1] [Iron]",
 			"Removes removable features when built",
