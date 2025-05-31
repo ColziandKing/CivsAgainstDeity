@@ -17,12 +17,14 @@
 	
 	{
 		"name": "Industrial",
-		"friendBonusUniques": [
-			"[+3 Production] [in capital]"
-		],
-		"allyBonusUniques": [
-			"[+3 Production] [in capital]",
-			"[+2 Production] [in all cities]"
+        "friendBonusUniques":  [
+            "[+10]% [Production] [in all cities] <before the [Industrial era]>",
+            "[+20]% [Production] [in all cities] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+10]% [Production] [in all cities] <before from the [Industrial era]>",
+            "[+20]% [Production] [in all cities] <starting from the [Industrial era]>",
+            "[+15]% [Production] [in all cities] <when at war>"
 		],
 		"color": [139,69,19]
 	},
@@ -60,7 +62,7 @@
 		"allyBonusUniques": [
                     "[+10]% [Happiness] [in all cities]",
 			"[+2 Happiness]",
-		    "Influence of all other civilizations with all city-states degrades [22]% faster",
+		    "Influence of all other civilizations with all city-states degrades [33]% faster",
 		],
 		"color": [255,216,0]
 	},
@@ -189,7 +191,8 @@
         "allyBonusUniques":  [
 			"[+6 Science] <before the [Medieval age]>",
 			"[+12 Science] <starting from the [Medieval age]> <before the [Industrial age]>",
-			"[+26 Science] <starting from the [Industrial age]>"
+			"[+26 Science] <starting from the [Industrial age]>",
+            "[+15]% [Science] [in all cities] <when not at war>"
         ],
         "color": [255, 255, 0]
     },
