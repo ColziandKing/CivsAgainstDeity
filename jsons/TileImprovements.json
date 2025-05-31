@@ -88,13 +88,13 @@
 	},
 	{
 		"name": "Borehole",
-		"techRequired": "Advanced Materials",
-		"terrainsCanBeBuiltOn": ["Hill", "Fissure"],
+		"techRequired": "Radar",
+		"terrainsCanBeBuiltOn": ["Hill"],
 		"turnsToBuild": 10,
 		"production": 4,
 		"science": 1,
 		"uniques": [
-			"[+1 Science, +1 Production] <after discovering [Engineering]>",
+			"[+1 Science, +1 Production] <after discovering [Nanotechnology]>",
 			"Provides [1] [Uranium] <in [Uranium] tiles>",
 			"Provides [1] [Coal] <in [Coal] tiles>",
 			"Provides [1] [Aluminum] <in [Aluminum] tiles>",
