@@ -18,24 +18,6 @@
 		"shortcutKey": "D"
 	},
 	{
-		"name": "Trench",
-		"terrainsCanBeBuiltOn": [
-			"Grassland",
-			"Plains",
-			"Desert",
-			"Hill",
-			"Tundra",
-			"Snow",
-			"Marsh"
-		],
-		"turnsToBuild": 4,
-		"uniques": [
-			"Gives a defensive bonus of [25]%",
-			"Can be built outside your borders"
-		],
-		"shortcutKey": "D"
-	},
-	{
 		"name": "Borough",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"turnsToBuild": 15,
@@ -80,6 +62,8 @@
 					"Adjacent enemy units ending their turn take [10] damage", 
 					"Cannot be built on [Bonus resource] tiles", 
 					"Cannot be built on [Luxury resource] tiles", 
+            "Can be built just outside your borders",
+            "Gain control over [all] tiles in a [1]-tile radius",
 					"[+1 Production] for each adjacent [Land]"
 		],
 		"civilopediaText": [
@@ -108,12 +92,11 @@
 	},
 	{
 		"name": "Settlement",
-		"gold": 1,
+		"gold": 2,
 		"culture": 1,
-		"turnsToBuild": 6,
+		"turnsToBuild": 10,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"[+1 Science] for each adjacent [Forest]",
 			"[+1 Science] for each adjacent [Jungle]",
@@ -121,7 +104,8 @@
 			"[+1 Gold] <after discovering [Currency]>",
 			"[+1 Culture] <after discovering [Civil Service]>",
 			"Removes removable features when built",
-			"Can be built just outside your borders",
+            "Can be built just outside your borders",
+            "Gain control over [all] tiles in a [1]-tile radius",
 			"Gain control over [all] tiles in a [1]-tile radius",
 			"Pillaging this improvement yields approximately [+20 Gold]",
 			"Will not be replaced by automated units"
@@ -167,7 +151,7 @@
 			"Gives a defensive bonus of [10]%",
 			"Provides [1] [Iron]",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
-			"[+1 Food] <after discovering [Biology",
+			"[+1 Food] <after discovering [Biology]",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+20 Gold]",
 			"Will not be replaced by automated units"
@@ -212,7 +196,7 @@
 		"name": "Cultivated farm",
 		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
 		"food": 3,
-		"uniques": ["Great Improvement", 
+		"uniques": [
 					"[+1 Food] <in [Snow] tiles>", 
 					"[+1 Food] for each adjacent [Camp]", 
 					"[+2 Food] <after discovering [Fertilizer]>", 
@@ -229,7 +213,7 @@
 		"production": 1,
 		"culture": 3,
 		"faith": 1,
-		"uniques": ["Great Improvement", 
+		"uniques": [
 					"[+2 Faith] <after discovering [Theology]>", 
 					"[+2 Culture] <after discovering [Acoustics]>", 
 					"[+2 Gold] <after discovering [Scientific Theory]>", 
