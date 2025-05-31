@@ -73,14 +73,137 @@
 	{
 		"name": "Sea fort",
 		"production": 2,
+		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Coast"],
+		"uniques": [
 					"Gives a defensive bonus of [25]%", 
 					"Adjacent enemy units ending their turn take [10] damage", 
 					"Cannot be built on [Bonus resource] tiles", 
 					"Cannot be built on [Luxury resource] tiles", 
-					"[+1 Production] for each adjacent [Land]"],
+					"[+1 Production] for each adjacent [Land]"
+		],
 		"civilopediaText": [
 			{"text": "The sea version of citadel."}
+		]
+	},
+	{
+		"name": "Borehole",
+		"techRequired": "Advanced Materials",
+		"terrainsCanBeBuiltOn": ["Hill", "Fissure"],
+		"turnsToBuild": 10,
+		"production": 4,
+		"science": 1,
+		"uniques": [
+			"[+1 Science, +1 Production] <after discovering [Engineering]>",
+			"Provides [1] [Uranium] <in [Uranium] tiles>",
+			"Provides [1] [Coal] <in [Coal] tiles>",
+			"Provides [1] [Aluminum] <in [Aluminum] tiles>",
+			"Provides [1] [Silver] <in [Silver] tiles>",
+			"Provides [1] [Gems] <in [Gems] tiles>",
+			"Provides [1] [Salt] <in [Salt] tiles>",
+			"Provides [1] [Iron] <in [Iron] tiles>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "B"
+	},
+	{
+		"name": "Settlement",
+		"gold": 1,
+		"culture": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"[+1 Science] for each adjacent [Forest]",
+			"[+1 Science] for each adjacent [Jungle]",
+			"[+1 Food] for each adjacent [Food source]",
+			"[+1 Gold] <after discovering [Currency]>",
+			"[+1 Culture] <after discovering [Civil Service]>",
+			"Removes removable features when built",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Outpost",
+		"production": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Provides [1] [Iron]",
+			"Removes removable features when built",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Narcotics farm",
+		"culture": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"[+1 Food, -1 Gold] from [Fresh water] tiles",
+			"[+1 Culture, +1 Food] <after discovering [Hydroponics]>",
+			"Provides [1] [Incense]",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Prison farm",
+		"production": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Provides [1] [Iron]",
+			"[+1 Food, -1 Gold] from [Fresh water] tiles",
+			"[+1 Food] <after discovering [Biology",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Oracle",
+		"faith": 4,
+		"culture": 1,
+		"happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [10]%",
+			"Provides [1] [Oil]",
+			"Provides [1] [Oil] <after discovering [Biology]>",
+			"Removes removable features when built",
+			"[+1 Culture, +1 Faith] <after discovering [Chemistry]>",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Factory farm",
+		"food": 4,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Food source",
+			"Gives a defensive bonus of [10]%",
+			"[+1 Food] <after discovering [Botany]>",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Food] <after discovering [Hydroponics]>",
+			"[+1 Production, +1 Food] <after discovering [Genetics]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Will not be replaced by automated units"
 		]
 	},
 	
