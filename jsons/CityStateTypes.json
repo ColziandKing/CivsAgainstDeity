@@ -29,12 +29,12 @@
 	
 	{
 		"name": "Agrarian",
-		"friendBonusUniques": [
-			"[+3 Food] [in capital]"
-		],
-		"allyBonusUniques": [
-			"[+3 Food] [in capital]",
-			"[+2 Food] [in all cities]"
+        "friendBonusUniques": [
+		"[+10]% [Food] [in all cities]"
+	],
+        "allyBonusUniques": [
+		"[+10]% [Food] [in all cities]", 
+		"[25]% Food is carried over after population increases [in all cities]"
 		],
 		"color": [56,255,112]
 	},
@@ -54,15 +54,12 @@
 	{
 		"name": "Political",
 		"friendBonusUniques": [
-			"[+2 Gold] <before the [Medieval age]>",
-			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
-			"[+8 Gold] <starting from the [Industrial age]>",
+                    "[+10]% [Happiness] [in all cities]",
 			"[+2 Happiness]"
 		],
 		"allyBonusUniques": [
-			"[+2 Gold] <before the [Medieval age]>",
-			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
-			"[+8 Gold] <starting from the [Industrial age]>",
+                    "[+10]% [Happiness] [in all cities]",
+			"[+2 Happiness]",
 		    "Influence of all other civilizations with all city-states degrades [22]% faster",
 		],
 		"color": [255,216,0]
@@ -96,7 +93,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Jewelry]"
+			"Provides [2] [Amber]"
 		],
 		"color": [255,216,0]
 	},
@@ -112,7 +109,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Glass]"
+			"Provides [2] [Silver]"
 		],
 		"color": [255,216,0]
 	},
@@ -144,7 +141,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Porcelain]"
+			"Provides [2] [Incense]"
 		],
 		"color": [255,216,0]
 	},
