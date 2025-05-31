@@ -11,8 +11,8 @@
 		"promotions": ["Amphibious"],
 		"attackSound": "shot",
 		"uniques": [
-		  "Normal vision when embarked",
-		  "Defense bonus when embarked",
+		  "[+1] Sight <when Embarked>",
+		  "[+100]% <when defending> <when Embarked>",
 		  "[+2] Movement <in [Coastal] tiles>"
 		]
   },
