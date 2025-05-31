@@ -2234,7 +2234,21 @@
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Kazan"]
 	},
+	{
+		"name": "Sparta",
+		"adjective": ["Spartans"],
+		"cityStateType": "Militaristic",
+		"startBias": ["Grassland"],
 
+		"declaringWar": "This is Sparta!",
+		"attacked": "Spartans never retreat, Spartans never surrender.",
+		"defeated": "Molṑn labé!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [187,165,61],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
+		"cities": ["Sparta"]
+	},
 	
 	{
 		"name": "Bratislava",
