@@ -28,6 +28,18 @@
 	},
 	
 	{
+		"name": "Agrarian",
+		"friendBonusUniques": [
+			"[+3 Food] [in capital]"
+		],
+		"allyBonusUniques": [
+			"[+3 Food] [in capital]",
+			"[+2 Food] [in all cities]"
+		],
+		"color": [56,255,112]
+	},
+	
+	{
 		"name": "Maritime",
 		"friendBonusUniques": [
 			"[+3 Food] [in capital]"
@@ -37,6 +49,23 @@
 			"[+2 Food] [in all cities]"
 		],
 		"color": [56,255,112]
+	},
+	
+	{
+		"name": "Political",
+		"friendBonusUniques": [
+			"[+2 Gold] <before the [Medieval age]>",
+			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
+			"[+8 Gold] <starting from the [Industrial age]>",
+			"[+2 Happiness]"
+		],
+		"allyBonusUniques": [
+			"[+2 Gold] <before the [Medieval age]>",
+			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
+			"[+8 Gold] <starting from the [Industrial age]>",
+		    "Influence of all other civilizations with all city-states degrades [22]% faster",
+		],
+		"color": [255,216,0]
 	},
 	
 	{
