@@ -1,4 +1,15 @@
 [	
+    {
+        "name": "Hospital",
+        "food": 5,
+        "requiredBuilding": "Aqueduct",
+        "maintenance": 2,
+        "hurryCostModifier": 0,
+	"uniques": [
+			    "All newly-trained [relevant] units [in this city] receive the [Medic] promotion",
+	],
+	    "requiredTech": "Biology"
+    },
 	{
 		"name": "Theatre",
 		"happiness": 3,
