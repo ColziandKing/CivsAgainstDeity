@@ -52,4 +52,97 @@
 		],
 		"shortcutKey": "H"
 	},
+	{
+		"name": "Lodepit",
+		"uniqueTo": "Salveo",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["[+1 Production] <after discovering [Metallurgy]>", 
+					"[+1 Gold] from [Fresh water] tiles", 
+					"[+2 Culture] for each adjacent [City center] <after discovering [Acoustics]>",
+					"Pillaging this improvement yields approximately [+8 Gold]"],
+		"shortcutKey": "M",
+		"civilopediaText": [
+			{"text": "A mining site that is strengthened by a fortress and at the same time as a place for miners to live."},
+			{"text": "Born as Nkuhanean means born as a miner."},
+			{"text": "Even the nobles like it, that's why many Lodepits were established around the city."}
+		]
+	},
+	{
+		"name": "Sea fort",
+		"production": 2,
+		"terrainsCanBeBuiltOn": ["Coast"],
+					"Gives a defensive bonus of [25]%", 
+					"Adjacent enemy units ending their turn take [10] damage", 
+					"Cannot be built on [Bonus resource] tiles", 
+					"Cannot be built on [Luxury resource] tiles", 
+					"[+1 Production] for each adjacent [Land]"],
+		"civilopediaText": [
+			{"text": "The sea version of citadel."}
+		]
+	},
+	
+	{
+		"name": "Cultivated farm",
+		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
+		"food": 3,
+		"uniques": ["Great Improvement", 
+					"[+1 Food] <in [Snow] tiles>", 
+					"[+1 Food] for each adjacent [Camp]", 
+					"[+2 Food] <after discovering [Fertilizer]>", 
+					"Removes removable features when built", 
+					"Pillaging this improvement yields approximately [+15 Gold]"],
+		"civilopediaText": [
+			{"text": "A method of farming, which involves the best next generation aspiring farmers with retiring farmers, with special seeds that can be planted even in very cold areas."}
+		]
+	},
+	{
+		"name": "Sacred Grove",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"production": 1,
+		"culture": 3,
+		"faith": 1,
+		"uniques": ["Great Improvement", 
+					"[+2 Faith] <after discovering [Theology]>", 
+					"[+2 Culture] <after discovering [Acoustics]>", 
+					"[+2 Gold] <after discovering [Scientific Theory]>", 
+					"[+1 Science, +1 Production, +1 Culture, +1 Food] <after discovering [Empowerment]>", 
+					"Removes removable features when built", 
+					"Pillaging this improvement yields approximately [+10 Gold, +5 Culture]"],
+		"civilopediaText": [
+			{"text": "A sacred place constructed by a Maeron."},
+			{"text": "Home for artists, where a Maeron trains and teaches other Maeron candidates, a place that provides beauty and comfort."},
+			{"text": "Many great elves have had enlightenment in this place.."}
+		]
+	},
+	{
+		"name": "Vampire Castle",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Tundra","Snow","Hill"],
+		"culture": 1,
+		"faith": 1,
+		"uniques": ["[+1 Food] for each adjacent [Farm]", 
+					"[+1 Food] for each adjacent [Terrace farm]", 
+					"[+1 Production] for each adjacent [Lumber mill]", 
+					"[+1 Production] for each adjacent [Mine]", 
+					"[+1 Production] for each adjacent [Quarry]", 
+					"[+2 Production] for each adjacent [Manufactory]", 
+					"[+1 Food, +1 Production] for each adjacent [Pasture]", 
+					"[+4 Science] for each adjacent [Academy]", 
+					"[+3 Culture] for each adjacent [Landmark]", 
+					"[+1 Gold] for each adjacent [Trading post]", 
+					"[+2 Gold] for each adjacent [Customs house]", 
+					"[+2 Gold] for each adjacent [Plantation]", 
+					"[+3 Faith] for each adjacent [Holy site]", 
+					"Pillaging this improvement yields approximately [+15 Gold]"],
+		//"replacementTextForUniques": "Provides half of neighboring improvements stats",
+		"shortcutKey": "F",
+		"civilopediaText": [
+			{"text": "A cursed castle that can cause one to be dazed and unable to get out."},
+			{"text": "The strong blood aura on every wall can arouse thirst."},
+			{"text": "That's right, a person may become a vampire by being bitten by a vampire, having a cat jump over a person's corpse, and by being in this cursed castle 10 nights straight."}
+		]
+	},
 ]
