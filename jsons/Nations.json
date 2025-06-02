@@ -98,7 +98,6 @@
 		"innerColor": [255,255,0], 
 		"uniqueName": "Bond and Oath",
 		"uniques": ["[+1 Food] from every [Fresh Water]", 
-					"[+15]% Strength <when fighting in [Desert] tiles>", 
 					"[+15]% Strength <when fighting in [Friendly Land] tiles>",
 			"[+33]% Strength <when fighting units from a Civilization with more Cities than you> <in [Friendly Land] tiles>",
 			"Science gained from research agreements [+25]%","Cannot build [Warrior] units <hidden from users>",
@@ -402,7 +401,8 @@
 		"adjective": ["Artizan"],
 		"cityStateType": "Cultural",
 		"style": "Human",
-		"uniques": ["Free [Spearman] appears <upon discovering [Bronze Working] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","Free [Spearman] appears <upon discovering [Bronze Working] technology>"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -420,7 +420,8 @@
 		"cityStateType": "Cultural",
 		"startBias": ["Desert"],
 		"style": "Desert",
-		"uniques": ["Free [Worker] appears <upon discovering [Pottery] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","Free [Worker] appears <upon discovering [Pottery] technology>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -433,7 +434,8 @@
 		"name": "Gildar",
 		"adjective": ["Drow"],
 		"cityStateType": "Cultural",
-		"uniques": ["[+10]% Strength <for [Sword] units>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","[+10]% Strength <for [Sword] units>"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -447,7 +449,8 @@
 		"adjective": ["Manthrili"],
 		"cityStateType": "Cultural",
 		"style": "Dwarven",
-		"uniques": ["Starts with [Mining]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","Starts with [Mining]"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -463,7 +466,8 @@
 		"name": "Feu Follet",
 		"adjective": ["Ego-Vampire"],
 		"cityStateType": "Cultural",
-		"uniques": ["[-15]% Culture cost of natural border growth [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","[-15]% Culture cost of natural border growth [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -477,7 +481,8 @@
 		"adjective": ["Windemeri"],
 		"cityStateType": "Cultural",
 		"style": "Elven",
-		"uniques": ["Starts with [Archery]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]","Starts with [Archery]"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -495,7 +500,8 @@
 		"adjective": ["Asili"],
 		"cityStateType": "Industrial",
 		"style": "Dwarven",
-		"uniques": ["[+100]% Production when constructing [Worker] units [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+100]% Production when constructing [Worker] units [in capital]"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -512,7 +518,8 @@
 		"adjective": ["Centaurs"],
 		"cityStateType": "Industrial",
 		"startBias": ["Plains"],
-		"uniques": ["[+1] Movement <for [Land] units>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+1] Movement <for [Land] units>"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "A barbarian like you will never enough with just a horse. I am not a horse!",
@@ -529,7 +536,8 @@
 		"adjective": ["Clockwerks"],
 		"cityStateType": "Industrial",
 		"style": "Human",
-		"uniques": ["[+1 Production] from all [Science] buildings"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[+1 Production] from all [Science] buildings"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -546,7 +554,8 @@
 		"adjective": ["Daynian"],
 		"cityStateType": "Industrial",
 		"style": "Human",
-		"uniques": ["[-50]% construction time for [All] improvements"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","[-50]% construction time for [All] improvements"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Just because you can't pay me, you declare war on me?",
@@ -563,7 +572,8 @@
 		"adjective": ["Kobolds"],
 		"cityStateType": "Industrial",
 		"startBias": ["Hill"],
-		"uniques": ["Gain a free [Walls] [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","Gain a free [Walls] [in capital]"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -577,7 +587,8 @@
 		"adjective": ["Ogre"],
 		"cityStateType": "Industrial",
 		"startBias": ["Jungle"],
-		"uniques": ["All newly-trained [Sword] units [in capital] receive the [Charge] promotion"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]","All newly-trained [Sword] units [in capital] receive the [Charge] promotion"],
 		
 		"declaringWar": "Hungry ... hungry for eternity ...",
 		"attacked": "I am hungry of a fresh flesh myself!",
@@ -600,7 +611,7 @@
 		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Dublin"]
 	},
@@ -614,7 +625,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Meldar"]
 	},
@@ -628,7 +639,7 @@
 		"defeated": "For Ferrix. Stone and Sky.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204, 102, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Ferrix"]
 	},
@@ -643,7 +654,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [210, 240, 203],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Königsberg"]
 	},
@@ -658,7 +669,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Taipei"]
 	},
@@ -672,7 +683,7 @@
 		"defeated": "I can't swim, I can't swim!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 128, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Narkina 5"]
 	},
@@ -682,7 +693,7 @@
 		"adjective": ["Glaceholmian"],
 		"cityStateType": "Agrarian",
 		"startBias": ["Tundra"],
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Gold] [in capital]",
 			"[+1] Movement <for [{Military} {Melee}] units> <in [Tundra] tiles>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -700,7 +711,7 @@
 		"adjective": ["Primitive"],
 		"cityStateType": "Agrarian",
 		"startBias": ["Desert"],
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Gold] [in capital]",
 			"[+1] Sight <for [Scout] units> <in [Desert] tiles>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -716,7 +727,7 @@
 		"cityStateType": "Agrarian",
 		"startBias": ["Hill"],
 		"style": "Elven",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Gold] [in capital]",
 			"Free [Composite Bowman] appears <upon discovering [Construction] technology>"],
 
 		"declaringWar": "I have to do this, for the sake of progress if nothing else. You must be opposed!",
@@ -732,7 +743,7 @@
 		"cityStateType": "Agrarian",
 		"startBias": ["Coast"],
 		"style": "Goblin",
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Gold] [in capital]",
 			"[+15]% [Food] [in capital]"],
 
 		"declaringWar": "I will enjoy hearing your last breath as you witness the destruction of your realm!",
@@ -748,7 +759,7 @@
 		"cityStateType": "Agrarian",
 		"style": "Human",
 		"uniques": ["\"Borrows\" city names from other civilizations in the game",
-			"Starts with [Pottery]"],
+			"[+2 Gold] [in capital]","Starts with [Pottery]"],
 
 		"declaringWar": "You have revealed your purposes a bit too early, my friend...",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -766,7 +777,8 @@
 		"adjective": ["Cordians"],
 		"cityStateType": "Mercantile-Concordia",
 		"startBias": ["Coast"],
-		"uniques": ["[+1 Food] from [Fish] tiles [in capital]"],
+		"uniques": ["[+1 Food] from [Fish] tiles [in capital]","\"Borrows\" city names from other civilizations in the game",
+		"[+2 Production] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -780,7 +792,8 @@
 		"adjective": ["Merchant-Beast"],
 		"cityStateType": "Mercantile-Crotoa",
 		"startBias": ["Coast"],
-		"uniques": ["Double quantity of [Crab] produced"],
+		"uniques": ["Double quantity of [Crab] produced","\"Borrows\" city names from other civilizations in the game",
+		"[+2 Production] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -795,7 +808,8 @@
 		"cityStateType": "Mercantile-Frostwaste",
 		"startBias": ["Snow"],
 		"style": "Icemen",
-		"uniques": ["Double quantity of [Ivory] produced"],
+		"uniques": ["Double quantity of [Ivory] produced","\"Borrows\" city names from other civilizations in the game",
+		"[+2 Production] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -812,7 +826,8 @@
 		"adjective": ["Merchant-Dwarven"],
 		"cityStateType": "Mercantile-Gahaldur",
 		"style": "Dwarven",
-		"uniques": ["Starts with [Mining]"],
+		"uniques": ["Starts with [Mining]","\"Borrows\" city names from other civilizations in the game",
+		"[+2 Production] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -826,7 +841,8 @@
 		"adjective": ["Tonthonese"],
 		"cityStateType": "Mercantile-Tonthon",
 		"style": "Goblin",
-		"uniques": ["Starts with [Trapping]"],
+		"uniques": ["Starts with [Trapping]","\"Borrows\" city names from other civilizations in the game",
+		"[+2 Production] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -841,7 +857,8 @@
 		"adjective": ["Pirates"],
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
-		"uniques": ["[+1] Movement <for [{Military} {Water}] units>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]","[+1] Movement <for [{Military} {Water}] units>"],
 
 		"declaringWar": "Do you really think you can walk over us so easily? I will not let it happen. Not to my people!",
 		"attacked": "We are no strangers to war.",
@@ -854,7 +871,8 @@
 		"name": "Grokzut",
 		"adjective": ["Lizardfolk"],
 		"cityStateType": "Militaristic",
-		"uniques": ["[+15]% Strength <for [{Melee} {Land}] units> <when defending>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]","[+15]% Strength <for [{Melee} {Land}] units> <when defending>"],
 
 		"declaringWar": "Itz time! Itz time to WAAAGH diz pathetic weaklingz!",
 		"attacked": "HAHAHAHA! Diz iz juzt hilarious! Get em, boiz!",
@@ -869,9 +887,10 @@
 	{
 		"name": "Khemul",
 		"adjective": ["Khemuli"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Scientific",
 		"style": "Human",
-		"uniques": ["Free [Cavalry] appears <upon discovering [Military Science] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]","Free [Cavalry] appears <upon discovering [Military Science] technology>"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -888,7 +907,8 @@
 		"adjective": ["Pidian"],
 		"cityStateType": "Militaristic",
 		"style": "Demonic",
-		"uniques": ["[Sword] units gain the [Pride] promotion"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]","[Sword] units gain the [Pride] promotion"],
 
 		"declaringWar": "After thorough deliberation, Pidians finds itself at a crossroads. Prepare yourself, for war is upon us.",
 		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
@@ -904,7 +924,8 @@
 		"name": "Rackedt",
 		"adjective": ["Mercenary-Beast"],
 		"cityStateType": "Militaristic",
-		"uniques": ["All newly-trained [Scout] units [in capital] receive the [Cover II] promotion"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Science] from each Trade Route","[+2 Science] [in capital]","All newly-trained [Scout] units [in capital] receive the [Cover II] promotion"],
 
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
 		"attacked": "Traitorous man! The Rackedt peoples will not stand for such wanton abuse and slander - I shall have your head!",
@@ -918,7 +939,8 @@
 		"adjective": ["Shaquadi"],
 		"cityStateType": "Scientific",
 		"style": "Human",
-		"uniques": ["Free [Caravel] appears <upon discovering [Optics] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]","Free [Caravel] appears <upon discovering [Optics] technology>"],
 
 		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
 		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Shaquad!",
@@ -935,7 +957,8 @@
 		"name": "Aysus",
 		"adjective": ["Aysusian"],
 		"cityStateType": "Scientific",
-		"uniques": ["Free [Inquisitor] appears <upon discovering [Philosophy] technology>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]","Free [Inquisitor] appears <upon discovering [Philosophy] technology>"],
 
 		"declaringWar": "By the grace of God, we declare war!",
 		"attacked": "You shall not trample our temple!",
@@ -952,7 +975,8 @@
 		"adjective": ["Chorislaviani"],
 		"cityStateType": "Religious",
 		"style": "Elven",
-		"uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]","[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"],
 
 		"declaringWar": "I didn't want to do this. We declare war.",
 		"attacked": "I will fear no evil. For god is with me!",
@@ -969,7 +993,8 @@
 		"adjective": ["Druid"],
 		"cityStateType": "Religious",
 		"startBias": ["Jungle"],
-		"uniques": ["[+1 Faith, +1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]","[+1 Faith, +1 Culture] [in all cities] <with [1] to [2] neighboring [{unimproved} {Jungle}] tiles>",
 	"[+2 Faith, +2 Culture] [in all cities] <with [3] to [6] neighboring [{unimproved} {Jungle}] tiles>"],
 
 		"declaringWar": "You shall stain this land no longer, prepare for war!",
@@ -983,17 +1008,18 @@
 		]
 	},
 	{
-		"name": "Gomorra",
-		"adjective": ["Gomorran"],
+		"name": "Gomor",
+		"adjective": ["Gomorr"],
 		"cityStateType": "Religious",
-		"uniques": ["Gain a free [Shrine] [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]","Gain a free [Shrine] [in capital]"],
 
 		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
 		"attacked": "Very well, we will kick you back to the ancient era!",
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [ 20, 20, 20],
 		"innerColor": [203,253,232],
-		"cities": ["Gomorra"]
+		"cities": ["Gomor"]
 	},
 	{
 		"name": "Nevdes",
@@ -1001,7 +1027,8 @@
 		"cityStateType": "Religious",
 		"startBias": ["Plains"],
 		"style": "Human",
-		"uniques": ["[+10]% Strength <for [Archery] units>"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]","[+10]% Strength <for [Archery] units>"],
 
 		"declaringWar": "Everyday you stray further from God. Let me show you the right path!",
 		"attacked": "You think God will permit your abominations?",
@@ -1018,7 +1045,8 @@
 		"adjective": ["Zillan"],
 		"cityStateType": "Religious",
 		"style": "Human",
-		"uniques": ["Gain a free [Monastery] [in capital]"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]","Gain a free [Monastery] [in capital]"],
 
 		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
 		"attacked": "May god have mercy on your evil soul.",
@@ -1043,7 +1071,7 @@
 		"defeated": "I guess you weren't here for the sprouts after all...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,255,51],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Brussels"]
 	},
@@ -1058,7 +1086,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [183,235,81],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Syracuse"]
 	},
@@ -1073,7 +1101,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [223,135,161],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Nicosia"]
 	},
@@ -1088,7 +1116,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [123,135,161],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Mohenjo-Daro"]
 	},
@@ -1103,7 +1131,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [123,235,161],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Monrovia"]
 	},
@@ -1118,7 +1146,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [123,135,261],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Nuuk"]
 	},
@@ -1132,7 +1160,7 @@
 		"defeated": "And so the flower of Florence falls to barbaric hands...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [62,197,252],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Florence"]
 	},
@@ -1147,7 +1175,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51, 51, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Izatys"]
 	},
@@ -1162,7 +1190,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [99, 88, 75],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Nok"]
 	},
@@ -1177,7 +1205,7 @@
 		"defeated": "So this is how it feels to die...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [99, 188, 75],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Garama"]
 	},
@@ -1192,7 +1220,7 @@
 		"defeated": "Today, the Malay people obey you, but do not think this is over...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [38, 96, 124],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Kuala Lumpur"]
 	},
@@ -1207,7 +1235,7 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185,132,66],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Milan"]
 	},
@@ -1222,7 +1250,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Havana"]
 	},
@@ -1237,7 +1265,7 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211, 220, 103],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Asunción"]
 	},
@@ -1252,7 +1280,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 0, 207],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Prague"]
 	},
@@ -1267,7 +1295,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [116,55,250],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Minsk"]
 	},
@@ -1282,7 +1310,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,25,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Granada"]
 	},
@@ -1297,7 +1325,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [136,85,38],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Bordeaux"]
 	},
@@ -1312,7 +1340,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [51,85,208],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Taos Pueblo"]
 	},
@@ -1327,7 +1355,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [116,55,200],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Shenyang"]
 	},
@@ -1336,14 +1364,14 @@
 		"name": "Palenque",
 		"adjective": ["Palenque"],
 		"cityStateType": "Agrarian",
-		"startBias": ["River"],
+		"startBias": ["Lakes"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
         	"innerColor": [43,79,83],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Palenque"]
 	},
@@ -1358,10 +1386,99 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
         	"innerColor": [3, 16, 230],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
-		"cities": ["Yangon","Pagan","Ava","Taungoo","Sri Ksetra","Halin","Binnaka","Beikthano","Maingmaw","Tagaung",
-            "Minbu","Kyaukse","Bago","Mergui","Arakan","Prome","Bhamo","Thaton","Bassein","Mrauk U"]
+		"cities": ["Yangon","Ava","Taungoo","Sri Ksetra","Halin","Binnaka","Beikthano","Bago","Mergui","Kale","Mogaung"]
+	},
+	{
+		"name": "Arakan",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Arakan"]
+	},
+	{
+		"name": "Prome",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Prome"]
+	},
+	{
+		"name": "Bhamo",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Bhamo"]
+	},
+	{
+		"name": "Thaton",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Thaton"]
+	},
+	{
+		"name": "Bassein",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Bassein"]
+	},
+	{
+		"name": "Mrauk U",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Mrauk U"]
 	},
 	{
 		"name": "Myanmar",
@@ -1374,16 +1491,107 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
         	"innerColor": [255, 148, 10],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
-		"cities": ["Nyaung U","Dala","Martaban","Nyaungshwe","Thibaw","Mohnyin","Kale","Mogaung","Theinni","Mone",
-            "Shwebo","Mandalay","Hsipaw","Ngapali","Chaungtha","Kyaikto","Kyaikkami","Naypyidaw"]
+		"cities": ["Nyaung U","Dala","Martaban","Nyaungshwe","Thibaw","Mohnyin","Minbu","Kyaukse","Theinni","Mone","Shwebo","Mandalay"]
+	},
+	{
+		"name": "Hsipaw",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Hsipaw"]
+	},
+	{
+		"name": "Ngapali",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Ngapali"]
+	},
+	{
+		"name": "Chaungtha",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Chaungtha"]
+	},
+	{
+		"name": "Kyaikto",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Kyaikto"]
+	},
+	{
+		"name": "Kyaikkami",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Kyaikkami"]
+	},
+	{
+		"name": "Naypyidaw",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","[+2 Happiness] [in all cities]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Naypyidaw"]
 	},
 	{
 		"name": "Hanoi",
 		"adjective": ["Hanoian"],
 		"cityStateType": "Agrarian",
 		"startBias": ["River"],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -1404,7 +1612,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Manila"]
 	},
@@ -1419,7 +1627,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,153],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Cape Town"]
 	},
@@ -1434,7 +1642,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [155,153,103],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Massalia"]
 	},
@@ -1449,7 +1657,7 @@
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [55,153,103],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Tripoli"]
 	},
@@ -1464,7 +1672,7 @@
 		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,178,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Helsinki"]
 	},
@@ -1479,7 +1687,7 @@
 		"defeated": "The day of judgement has come to us. But rest assured, the same will go for you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [82,97,137],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Oslo"]
 	},
@@ -1494,7 +1702,7 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [224,224,224],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Mogadishu"]
 	},
@@ -1509,7 +1717,7 @@
 		"defeated": "Congratulations, conqueror. This tribe serves you now.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [24,224,224],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Baku"]
 	},
@@ -1524,7 +1732,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [71,87,144],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Reykjavik"]
 	},
@@ -1539,7 +1747,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Santiago de Chile"]
 	},
@@ -1554,7 +1762,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [181, 100, 3],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Ragusa"]
 	},
@@ -1569,7 +1777,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Auckland"]
 	},
@@ -1584,7 +1792,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,155,86],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Muscat"]
 	},
@@ -1599,7 +1807,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [120,150,250],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Riga"]
 	},
@@ -1614,7 +1822,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [120,150,50],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Knossos"]
 	},
@@ -1629,7 +1837,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [140,80,80],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Cyrene"]
 	},
@@ -1644,7 +1852,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [67,91,171],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Saguntum"]
 	},
@@ -1659,7 +1867,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [20,150,50],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Cirta"]
 	},
@@ -1674,7 +1882,7 @@
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185,132,66],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Djibouti"]
 	},
@@ -1689,7 +1897,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [200,200,200],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Igloolik"]
 	},
@@ -1706,7 +1914,7 @@
 		"defeated": "A wrong calculation, on my part.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [153,204,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Venice"]
 	},
@@ -1721,7 +1929,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [194,97,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Algiers"]
 	},
@@ -1736,7 +1944,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [45,255,86],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Genoa"]
 	},
@@ -1751,7 +1959,7 @@
 		"defeated": "How barbaric. Those who live by the sword shall perish by the sword.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,135,221],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Novgorod"]
 	},
@@ -1766,7 +1974,7 @@
 		"defeated": "We... defeated? No... we had so much work to do!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [151,125,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Kathmandu"]
 	},
@@ -1781,7 +1989,7 @@
 		"defeated": "Perhaps, in another world, we could have been friends...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Singapore"]
 	},
@@ -1796,7 +2004,7 @@
 		"defeated": "We hope you'll be merciful to our people",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Kilwa"]
 	},
@@ -1811,7 +2019,7 @@
 		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,97,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Tyre"]
 	},
@@ -1826,7 +2034,7 @@
 		"defeated": "What a fine battle! Sidon is willing to serve you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Sidon"]
 	},
@@ -1841,7 +2049,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,153,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Zanzibar"]
 	},
@@ -1856,7 +2064,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [27,90,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Bandar Brunei"]
 	},
@@ -1871,7 +2079,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [80, 170, 200],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Zurich"]
 	},
@@ -1886,7 +2094,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [217, 250, 70],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Antananarivo"]
 	},
@@ -1901,7 +2109,7 @@
 		"defeated": "They will write songs of this.... pray that they shall be in your favor.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [144, 173, 14],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Hong Kong"]
 	},
@@ -1916,7 +2124,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [81, 140, 3],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Malacca"]
 	},
@@ -1931,7 +2139,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [201, 140, 3],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Samarkand"]
 	},
@@ -1946,7 +2154,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [201, 140, 103],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Antioch"]
 	},
@@ -1961,7 +2169,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 0, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Tondo"]
 	},
@@ -1976,7 +2184,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204, 0, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Ma-I"]
 	},
@@ -1991,7 +2199,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [201, 140, 203],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
 		"cities": ["Timbuktu"]
 	},
@@ -2008,7 +2216,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [152,0,241],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Almaty"]
 	},
@@ -2023,7 +2231,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [92,51,243],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Nassau"]
 	},
@@ -2038,7 +2246,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [112,76,175],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Ngazargamu"]
 	},
@@ -2053,7 +2261,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [119,84,84],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Washukanni"]
 	},
@@ -2068,7 +2276,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [48,102,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Gergovia"]
 	},
@@ -2083,7 +2291,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [12,176,75],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Kalkriese"]
 	},
@@ -2098,7 +2306,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [112,176,75],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Kermenchik"]
 	},
@@ -2113,7 +2321,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [168, 38, 102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Kabul"]
 	},
@@ -2128,7 +2336,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [168, 238, 102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Rouen"]
 	},
@@ -2142,7 +2350,7 @@
 		"defeated": "The serbian guerilla will never stop haunting you!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Belgrade"]
 	},
@@ -2156,7 +2364,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,80,113],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Preslav"]
 	},
@@ -2171,7 +2379,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [184,12,31],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Tlaxcala"]
 	},
@@ -2186,7 +2394,7 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,80,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Mwibele"]
 	},
@@ -2201,7 +2409,7 @@
 		"defeated": "You are nothing but a glorified barbarian. Cruel, and ruthless.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,128,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["M'Banza-Kongo"]
 	},
@@ -2216,7 +2424,7 @@
 		"defeated": "Such power! Perhaps I underestimated you before.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [55,128,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Bibracte"]
 	},
@@ -2231,7 +2439,7 @@
 		"defeated": "This ship may sink, but our spirits will linger.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Valletta"]
 	},
@@ -2246,7 +2454,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [12,109,24],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Warxox"]
 	},
@@ -2261,7 +2469,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [89,89,155],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Oyo"]
 	},
@@ -2276,7 +2484,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [180,160,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Kazan"]
 	},
@@ -2291,7 +2499,7 @@
 		"defeated": "Molṑn labé!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [187,165,61],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Science] from each Trade Route","[+2 Science] [in capital]"],
 		"cities": ["Sparta"]
 	},
@@ -2306,7 +2514,7 @@
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Bratislava"]
 	},
@@ -2321,7 +2529,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [150,90,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Fes"]
 	},
@@ -2336,7 +2544,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 253, 232],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Cahokia"]
 	},
@@ -2351,7 +2559,7 @@
 		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [203, 153, 232],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Kandy"]
 	},
@@ -2366,7 +2574,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Lhasa"]
 	},
@@ -2381,7 +2589,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,100],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Hunkpapa"]
 	},
@@ -2396,7 +2604,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204,102,255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Cherdyn"]
 	},
@@ -2411,7 +2619,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [84,102,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Bagan"]
 	},
@@ -2426,7 +2634,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [104,102,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Kashgar"]
 	},
@@ -2441,7 +2649,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [35,109,12],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Tehran"]
 	},
@@ -2456,7 +2664,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [24,102,100],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Atil"]
 	},
@@ -2471,7 +2679,7 @@
 		"defeated": "I for one welcome our new conquer overlord!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Jerusalem"]
 	},
@@ -2486,7 +2694,7 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,155,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Chinguetti"]
 	},
@@ -2501,7 +2709,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [174, 194, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Yerevan"]
 	},
@@ -2516,7 +2724,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [174, 154, 185],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Cahuachi"]
 	},
@@ -2531,7 +2739,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [174, 154, 15],
-        "uniques": ["[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+        "uniques": ["[+4 Happiness] from each Trade Route","Starts with [Construction]","Double quantity of [Gems] produced","[+2 Happiness] [in capital]"],
 		"cities": ["Wittenberg"]
 	},
 	{
@@ -2545,7 +2753,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [74, 154, 15],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Mobridge"]
 	},
@@ -2560,7 +2768,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [110, 94, 63],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Moson Kahni"]
 	},
@@ -2575,7 +2783,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [101, 84, 135],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Tiiis Tseba"]
 	},
@@ -2590,7 +2798,7 @@
 		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [211,180,113],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Dublin"]
 	},
@@ -2604,7 +2812,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Meldar"]
 	},
@@ -2618,7 +2826,7 @@
 		"defeated": "For Ferrix. Stone and Sky.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [204, 102, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Ferrix"]
 	},
@@ -2633,7 +2841,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [210, 240, 203],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Königsberg"]
 	},
@@ -2648,7 +2856,7 @@
 		"defeated": "Ah, Gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [96,96,96],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Culture] from each Trade Route","[+2 Culture] [in capital]"],
 		"cities": ["Taipei"]
 	},
@@ -2663,7 +2871,7 @@
 		"defeated": "Vile ruler, know that you 'won' this war in name only!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Edinburgh"],
 	},
@@ -2677,7 +2885,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0, 255, 255],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Sengtek-Xivesotte"]
 	},
@@ -2692,7 +2900,7 @@
 		"defeated": "May the Heavens forgive you for inflicting this humiliation to our people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [210, 40, 203],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Munich"]
 	},
@@ -2707,7 +2915,7 @@
 		"defeated": "What treachery has struck us? No, what evil?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,69,0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Akkad"]
 	},
@@ -2723,7 +2931,7 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"],
-		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"]
 	},
 	{
@@ -2736,7 +2944,7 @@
 		"defeated": "How could we fall to the likes of you?!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [239, 180, 0],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Edessa"]
 	},
@@ -2751,26 +2959,53 @@
 		"defeated": "Unacceptable!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,233,142],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Odesa"]
+	},
+	{
+		"name": "Tagaung",
+		"adjective": ["Tagaung"],
+		"cityStateType": "Political",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,233,142],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
+		"cities": ["Tagaung"]
 	},
 	{
 		"name": "Tikal",
 		"adjective": ["Tikal"],
 		"cityStateType": "Political",
-		"startBias": ["Lake"],
+		"startBias": ["Lakes"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
         	"innerColor": [213,166,120],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Tikal"]
 	},
-	
+	{
+		"name": "Maingmaw",
+		"adjective": ["Maingmaw"],
+		"cityStateType": "Political",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [213,166,120],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Maingmaw"]
+	},
 	//Barbarian
 	{
 		"name": "Barbarians",
