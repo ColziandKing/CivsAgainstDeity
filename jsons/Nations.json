@@ -1331,22 +1331,6 @@
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Shenyang"]
 	},
-	{
-		"name": "Odesa",
-		"adjective": ["Odesite"],
-		"cityStateType": "Cultured",
-		"startBias": ["Coast"],
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Unacceptable!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [255,233,142],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
-		"cities": ["Odesa"]
-	},
-	
 
 	{
 		"name": "Djibouti",
@@ -1362,6 +1346,21 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Djibouti"]
+	},
+	{
+		"name": "Manila",
+		"adjective": ["Manilan"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [96,96,96],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Manila"]
 	},
 	{
 		"name": "Cape Town",
@@ -1632,20 +1631,6 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Igloolik"]
-	},
-	{
-		"name": "Manila",
-		"adjective": ["Manilan"],
-		"cityStateType": "Maritime",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [96,96,96],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
-		"cities": ["Manila"]
 	},
 
 	
@@ -2533,8 +2518,6 @@
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Tiiis Tseba"]
 	},
-
-	
 	{
 		"name": "Dublin",
 		"adjective": ["Irish"],
@@ -2609,7 +2592,6 @@
 		"cities": ["Taipei"]
 	},
 
-	
 	{
 		"name": "Edinburgh",
 		"adjective": ["Edinburghensian"],
@@ -2668,6 +2650,7 @@
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Akkad"]
 	},
+	
 	{
 		"name": "Edessa",
 		"adjective": ["Edessan"],
@@ -2681,6 +2664,21 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"],
 		"cities": ["Edessa"]
+	},
+	{
+		"name": "Odesa",
+		"adjective": ["Odesite"],
+		"cityStateType": "Political",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,233,142],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
+		"cities": ["Odesa"]
 	},
 	
 	//Barbarian
