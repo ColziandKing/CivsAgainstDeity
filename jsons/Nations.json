@@ -1333,20 +1333,66 @@
 	},
 
 	{
-		"name": "Djibouti",
-		"adjective": ["Djibouti"],
-		"cityStateType": "Maritime",
-		"startBias": ["Coast"],
+		"name": "Palenque",
+		"adjective": ["Palenque"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [185,132,66],
+        	"innerColor": [43,79,83],
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
-		"cities": ["Djibouti"]
+		"cities": ["Palenque"]
 	},
+	{
+		"name": "Pyu",
+		"adjective": ["Pyu"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [3, 16, 230],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Yangon","Pagan","Ava","Taungoo","Sri Ksetra","Halin","Binnaka","Beikthano","Maingmaw","Tagaung",
+            "Minbu","Kyaukse","Bago","Mergui","Arakan","Prome","Bhamo","Thaton","Bassein","Mrauk U"]
+	},
+	{
+		"name": "Myanmar",
+		"adjective": ["Burmese"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Unacceptable!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [255, 148, 10],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Nyaung U","Dala","Martaban","Nyaungshwe","Thibaw","Mohnyin","Kale","Mogaung","Theinni","Mone",
+            "Shwebo","Mandalay","Hsipaw","Ngapali","Chaungtha","Kyaikto","Kyaikkami","Naypyidaw"]
+	},
+	{
+		"name": "Hanoi",
+		"adjective": ["Hanoian"],
+		"cityStateType": "Agrarian",
+		"startBias": ["River"],
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So this is how it feels to die...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [167, 162, 216],
+		"cities": ["Hanoi"]
+	},
+	
 	{
 		"name": "Manila",
 		"adjective": ["Manilan"],
@@ -1616,6 +1662,21 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
 		"cities": ["Cirta"]
+	},
+	{
+		"name": "Djibouti",
+		"adjective": ["Djibouti"],
+		"cityStateType": "Maritime",
+		"startBias": ["Coast"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [185,132,66],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Djibouti"]
 	},
 	{
 		"name": "Igloolik",
@@ -2652,6 +2713,20 @@
 	},
 	
 	{
+		"name": "Edinburgh",
+		"adjective": ["Edinburghensian"],
+		"cityStateType": "Political",
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
+		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
+		"defeated": "Vile ruler, know that you 'won' this war in name only!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+		"cities": ["Edinburgh"],
+		"uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Faith] from each Trade Route","[+2 Faith] [in capital]"]
+	},
+	{
 		"name": "Edessa",
 		"adjective": ["Edessan"],
 		"cityStateType": "Political",
@@ -2679,6 +2754,21 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game",
 		"[+4 Food] from each Trade Route","[+2 Food] [in capital]"],
 		"cities": ["Odesa"]
+	},
+	{
+		"name": "Tikal",
+		"adjective": ["Tikal"],
+		"cityStateType": "Political",
+		"startBias": ["Lake"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 0, 0],
+        	"innerColor": [213,166,120],
+        "uniques": ["\"Borrows\" city names from other civilizations in the game",
+		"[+4 Gold] from each Trade Route","[+2 Gold] [in capital]"],
+		"cities": ["Tikal"]
 	},
 	
 	//Barbarian
