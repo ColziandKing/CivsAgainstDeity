@@ -1,22 +1,6 @@
 [
 	// Natural Wonders
 	{
-		"name": "Research Facility",
-		"type": "NaturalWonder",
-		"science": 4,
-		"gold": 1,
-		"overrideStats": true,
-		"occursOn": ["Mountain"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": [
-			"Must be adjacent to [0] [Coast] tiles",
-			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [Land] units for the rest of the game"
-		],
-		"weight": 1
-	},
-	{
 		"name": "Soft Drinks Factory",
 		"type": "NaturalWonder",
 		"gold": 2,
@@ -63,33 +47,6 @@
 			"Must be adjacent to [1] [Mountain] tiles",
 			"Neighboring tiles will convert to [Coast] <in tiles without [Mountain]>"
 		],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
-	{
-		"name": "Hydroelectric Dam",
-		"type": "NaturalWonder",
-		"gold": 2,
-		"science": 1,
-		"occursOn": ["Plains","Grassland", "Mountain"],
-		"uniques": [
-			"Must be adjacent to [1] to [6] [Lakes] tiles",
-			"Fresh water"
-		],
-		"turnsInto": "Lakes",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 5
-	},
-	{
-		"name": "Mining Pit",
-		"type": "NaturalWonder",
-		"science": 1,
-		"production": 2,
-		"occursOn": ["Plains","Grassland", "Desert", "Tundra", "Snow"],
-		"uniques": ["Must be adjacent to [1] to [6] [Mountain] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
