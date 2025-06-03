@@ -92,6 +92,7 @@
 	},
 	{
 		"name": "Settlement",
+		"uniqueTo": "Colziand",
 		"gold": 2,
 		"culture": 1,
 		"turnsToBuild": 10,
@@ -159,6 +160,7 @@
 	},
 	{
 		"name": "Oracle",
+		"uniqueTo": "Rhuffelj",
 		"faith": 4,
 		"culture": 1,
 		"happiness": 1,
