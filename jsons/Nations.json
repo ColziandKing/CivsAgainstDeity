@@ -93,9 +93,8 @@
         "uniqueName": "The Holy Land",
         "uniques": ["[+1 Faith] from every [Luxury resource]","Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion"],
         "cities": [
-            "Jerusalem","Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
-            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron",
-            "Azotus"
+		"Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
+            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron","Azotus"
         ],
         "spyNames": [
             "Jason","Helena","Alexa","Cletus","Kassandra","Andres","Desdemona","Anthea","Aeneas","Leander"
