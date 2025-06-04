@@ -73,6 +73,34 @@
 	},
 // Before the Doom of the Old World
 	// The Pangaea Saga
+    {
+        "name": "Jerusalem",
+        "leaderName": "Fulk V",
+        "adjective": ["Jerusalem"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": " ",
+        "startIntroPart2": " ",
+        "declaringWar": "Prepare for war!",
+        "attacked": "You shall regret this!",
+        "defeated": "The victory is yours.",
+        "introduction": "It is an honour to meet you. I rule the land of Jerusalem and have brought glory to the kingdom.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Better hurry, I may change my mind.",
+        "outerColor": [0, 0, 0],
+        "innerColor": [239, 180, 0],
+        "uniqueName": "The Holy Land",
+        "uniques": ["[+1 Faith] from every [Luxury resource]","Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion"],
+        "cities": [
+            "Jerusalem","Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
+            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron",
+            "Azotus"
+        ],
+        "spyNames": [
+            "Jason","Helena","Alexa","Cletus","Kassandra","Andres","Desdemona","Anthea","Aeneas","Leander"
+        ]
+    },
 	{
 		"name": "Colziand",
 		"leaderName": "Raymond Sheen Caballero",
@@ -2680,7 +2708,8 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [198,255,192],
         "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
+		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
+	        "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
 		"cities": ["Jerusalem"]
 	},
 	{
