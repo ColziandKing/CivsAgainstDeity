@@ -2033,7 +2033,8 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [250,128,114],
         "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]"],
+		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
+	        "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
 		"cities": ["Kilwa"]
 	},
 	{
