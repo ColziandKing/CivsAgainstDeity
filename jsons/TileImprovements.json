@@ -91,44 +91,6 @@
 		"shortcutKey": "B"
 	},
 	{
-		"name": "Settlement",
-		"uniqueTo": "Colziand",
-		"gold": 2,
-		"culture": 1,
-		"turnsToBuild": 10,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": [
-			"Gives a defensive bonus of [10]%",
-			"[+1 Science] for each adjacent [Forest]",
-			"[+1 Science] for each adjacent [Jungle]",
-			"[+1 Food] for each adjacent [Food source]",
-			"[+1 Gold] <after discovering [Currency]>",
-			"[+1 Culture] <after discovering [Civil Service]>",
-			"Removes removable features when built",
-            "Can be built just outside your borders",
-            "Gain control over [all] tiles in a [1]-tile radius",
-			"Gain control over [all] tiles in a [1]-tile radius",
-			"Pillaging this improvement yields approximately [+20 Gold]",
-			"Will not be replaced by automated units"
-		]
-	},
-	{
-		"name": "Outpost",
-		"production": 2,
-		"turnsToBuild": 6,
-		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": [
-			"Gives a defensive bonus of [75]%",
-			"Adjacent enemy units ending their turn take [30] damage",
-			"Provides [1] [Iron]",
-			"Removes removable features when built",
-			"Can be built just outside your borders",
-			"Gain control over [all] tiles in a [1]-tile radius",
-			"Pillaging this improvement yields approximately [+20 Gold]",
-			"Will not be replaced by automated units"
-		]
-	},
-	{
 		"name": "Narcotics farm",
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
