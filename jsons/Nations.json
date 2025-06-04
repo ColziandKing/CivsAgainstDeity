@@ -2022,22 +2022,6 @@
 		"cities": ["Singapore"]
 	},
 	{
-		"name": "Kilwa",
-		"adjective": ["Kilwanese"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Coast"],
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We hope you'll be merciful to our people",
-		"outerColor": [0, 0, 0],
-		"innerColor": [250,128,114],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
-		"[+4 Production] from each Trade Route","[+2 Production] [in capital]",
-	        "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
-		"cities": ["Kilwa"]
-	},
-	{
 		"name": "Tyre",
 		"adjective": ["Tyrian"],
 		"cityStateType": "Mercantile",
@@ -2696,22 +2680,6 @@
         "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
 		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]"],
 		"cities": ["Atil"]
-	},
-	{
-		"name": "Jerusalem",
-		"adjective": ["Jerusalem"],
-		"cityStateType": "Religious",
-		"startBias": ["Oasis"],
-
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
-		"outerColor": [0, 0, 0],
-		"innerColor": [198,255,192],
-        "uniques": ["\"Borrows\" city names from other civilizations in the game","Starts with [Construction]",
-		"[+4 Happiness] from each Trade Route","[+2 Happiness] [in capital]",
-	        "Will not be displayed in Civilopedia", "Will not be chosen for new games", "Excluded from map editor"],
-		"cities": ["Jerusalem"]
 	},
 	{
 		"name": "Chinguetti",
