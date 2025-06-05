@@ -53,24 +53,6 @@
 		]
 	},
 	{
-		"name": "Sea fort",
-		"production": 2,
-		"turnsToBuild": 6,
-		"terrainsCanBeBuiltOn": ["Coast"],
-		"uniques": [
-					"Gives a defensive bonus of [25]%", 
-					"Adjacent enemy units ending their turn take [10] damage", 
-					"Cannot be built on [Bonus resource] tiles", 
-					"Cannot be built on [Luxury resource] tiles", 
-            "Can be built just outside your borders",
-            "Gain control over [all] tiles in a [1]-tile radius",
-					"[+1 Production] for each adjacent [Land]"
-		],
-		"civilopediaText": [
-			{"text": "The sea version of citadel."}
-		]
-	},
-	{
 		"name": "Borehole",
 		"techRequired": "Radar",
 		"terrainsCanBeBuiltOn": ["Hill"],
@@ -95,7 +77,6 @@
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
 			"[+1 Culture, +1 Food] <after discovering [Hydroponics]>",
@@ -110,7 +91,6 @@
 		"production": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"Provides [1] [Iron]",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
@@ -140,10 +120,9 @@
 	},
 	{
 		"name": "Factory farm",
-		"food": 4,
+		"food": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
 			"Food source",
 			"Gives a defensive bonus of [10]%",
 			"[+1 Food] <after discovering [Botany]>",
@@ -168,26 +147,6 @@
 					"Pillaging this improvement yields approximately [+15 Gold]"],
 		"civilopediaText": [
 			{"text": "A method of farming, which involves the best next generation aspiring farmers with retiring farmers, with special seeds that can be planted even in very cold areas."}
-		]
-	},
-	{
-		"name": "Sacred Grove",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"food": 1,
-		"production": 1,
-		"culture": 3,
-		"faith": 1,
-		"uniques": [
-					"[+2 Faith] <after discovering [Theology]>", 
-					"[+2 Culture] <after discovering [Acoustics]>", 
-					"[+2 Gold] <after discovering [Scientific Theory]>", 
-					"[+1 Science, +1 Production, +1 Culture, +1 Food] <after discovering [Empowerment]>", 
-					"Removes removable features when built", 
-					"Pillaging this improvement yields approximately [+10 Gold, +5 Culture]"],
-		"civilopediaText": [
-			{"text": "A sacred place constructed by a Maeron."},
-			{"text": "Home for artists, where a Maeron trains and teaches other Maeron candidates, a place that provides beauty and comfort."},
-			{"text": "Many great elves have had enlightenment in this place.."}
 		]
 	},
 	{
