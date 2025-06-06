@@ -10,7 +10,7 @@
 			"[+6 Culture] <before the [Medieval age]>",
 			"[+12 Culture] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+26 Culture] <starting from the [Industrial age]>",
-			"[+3 Culture] [in capital]"
+		    "Influence of all other civilizations with all city-states degrades [33]% faster",
 		],
 		"color": [139,96,255]
 	},
@@ -30,41 +30,16 @@
 	},
 	
 	{
-		"name": "Agrarian",
-        "friendBonusUniques": [
-		"[+10]% [Food] [in all cities]"
-	],
-        "allyBonusUniques": [
-		"[+10]% [Food] [in all cities]", 
-		"[25]% Food is carried over after population increases [in all cities]"
-		],
-		"color": [56,255,112]
-	},
-	
-	{
 		"name": "Maritime",
 		"friendBonusUniques": [
 			"[+3 Food] [in capital]"
 		],
 		"allyBonusUniques": [
 			"[+3 Food] [in capital]",
-			"[+2 Food] [in all cities]"
+		"[+10]% [Food] [in all cities]", 
+		"[25]% Food is carried over after population increases [in all cities]"
 		],
 		"color": [56,255,112]
-	},
-	
-	{
-		"name": "Political",
-		"friendBonusUniques": [
-                    "[+10]% [Happiness] [in all cities]",
-			"[+2 Happiness]"
-		],
-		"allyBonusUniques": [
-                    "[+10]% [Happiness] [in all cities]",
-			"[+2 Happiness]",
-		    "Influence of all other civilizations with all city-states degrades [33]% faster",
-		],
-		"color": [255,216,0]
 	},
 	
 	{
@@ -159,7 +134,7 @@
 			"[+2 Gold] <before the [Medieval age]>",
 			"[+4 Gold] <starting from the [Medieval age]> <before the [Industrial age]>",
 			"[+8 Gold] <starting from the [Industrial age]>",
-			"Provides [2] [Nutmeg]"
+                        "[+10]% [Happiness] [in all cities]"
 		],
 		"color": [255,216,0]
 	},
