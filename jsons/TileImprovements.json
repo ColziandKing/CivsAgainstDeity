@@ -77,6 +77,7 @@
 		"culture": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
+			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
 			"[+1 Culture, +1 Food] <after discovering [Hydroponics]>",
@@ -91,6 +92,7 @@
 		"production": 2,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
+			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"Provides [1] [Iron]",
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
@@ -108,7 +110,6 @@
 		"happiness": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Great Improvement",
 			"Gives a defensive bonus of [10]%",
 			"Provides [1] [Oil]",
 			"Provides [1] [Oil] <after discovering [Biology]>",
@@ -123,6 +124,7 @@
 		"food": 3,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
+			"Great Improvement",
 			"Food source",
 			"Gives a defensive bonus of [10]%",
 			"[+1 Food] <after discovering [Botany]>",
