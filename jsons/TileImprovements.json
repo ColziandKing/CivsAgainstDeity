@@ -134,4 +134,12 @@
 			"Will not be replaced by automated units"
 		]
 	},
+    {
+        "name": "Ancient ruins",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "uniques": [
+            "Unpillagable",
+            "Provides a random bonus when entered"
+        ]
+    },
 ]
