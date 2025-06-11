@@ -71,6 +71,38 @@
       "Amar Shaan"
     ]
 	},
+    {
+        "name": "Egypt",
+        "leaderName": "Ramesses II",
+        "adjective": ["Egyptian"],
+        "startBias": ["Avoid [Coast]","Desert"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "We greet thee, oh great Ramesses, Pharaoh of Egypt, who causes the sun to rise and the Nile to flow, and who blesses his fortunate people with all the good things of life! Oh great lord, from time immemorial your people lived on the banks of the Nile river, where they brought writing to the world, and advanced mathematics, sculpture, and architecture. Thousands of years ago they created the great monuments which still stand tall and proud.",
+        "startIntroPart2": "Oh, Ramesses, for uncounted years your people endured, as other petty nations around them have risen and then fallen into dust. They look to you to lead them once more into greatness. Can you honor the gods and bring Egypt back to her rightful place at the very center of the world? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+        "attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+        "defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+        "introduction": "Greetings, I am Ramesses the god. I am the living embodiment of Egypt, mother and father of all civilizations.",
+        "neutralHello": "Good day.",
+        "hateHello": "Oh, it's you.",
+        "tradeRequest": "Generous Egypt makes you this offer.",
+        "outerColor": [ 231, 213, 0],
+        "innerColor": [98,10,210],
+        "uniqueName": "Monument Builders",
+        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]",
+            "Gain a free [Burial Tomb] [in all cities]"],
+        "cities": [
+            "Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Akhetaten","Hieraconpolis","Abydos",
+            "Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis","Mendes",
+            "Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
+            "Balat","Ellahun","Kom Medinet Ghurab","Hawara","Dashur","Raqote","Damanhur","Merimde","Abusir","Herakleopolis",
+            "Akoris","Benihasan","Tasa","Badari","Hermopolis","Amrah","Negade","Koptos","Hermonthis","Ombos",
+            "Aniba","Soleb","Semna","Amara"
+        ],
+        "spyNames": [
+            "Refaat","Heba","Salah","Ahmed","Zakaria","Bastet","Ma'at","Nebhet","Tefenet","Neuth"
+        ]
+    },
 // Before the Doom of the Old World
 	// The Pangaea Saga
     {
