@@ -23,7 +23,10 @@
 	{
 		"name": "Isolated Island",
 		"type": "NaturalWonder",
-		"occursOn": ["Ocean"],
+		"science": 1,
+		"food": 1,
+		"production": 2,
+		"occursOn": ["Coast"],
 		"uniques": [
 			"Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
@@ -55,6 +58,8 @@
 	{
 		"name": "Underwater City",
 		"type": "NaturalWonder",
+		"science": 3,
+		"culture": 2,
 		"occursOn": ["Coast"],
 		"uniques": [
 			"Must be adjacent to [1] to [6] [Coast] tiles",
