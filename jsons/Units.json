@@ -41,7 +41,7 @@
 		"name": "Divine Milita",
 		"unitType": "Sword",
 		"uniqueTo": "Salveo",
-		"replaces": "Crusader",
+		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 14,
 		"cost": 75,
