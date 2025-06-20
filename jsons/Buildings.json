@@ -1,5 +1,19 @@
 [	
     {
+        "name": "Outremer",
+        "uniqueTo": "Jerusalem",
+        "replaces": "Courthouse",
+        "culture": 2,
+        "faith": 2,
+        "happiness": 2,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>"
+        ],
+        "requiredTech": "Mathematics"
+    },
+    {
         "name": "Hospital",
         "food": 5,
         "requiredBuilding": "Aqueduct",
