@@ -123,10 +123,18 @@
         "outerColor": [0, 0, 0],
         "innerColor": [239, 180, 0],
         "uniqueName": "The Holy Land",
-        "uniques": ["[+1 Faith] from every [Luxury resource]","Double quantity of [Horses] produced","[Mounted] units gain the [Ignore terrain cost] promotion"],
+        "uniqueText": "+2 Faith from every Luxury resource/Double quantity of [Horses] produced/Mounted units gain the Ignore terrain cost promotion/+150% Production when constructing Outremer buildings [in all cities] and an army Crusaders appears <upon discovering Theology technology>",
+        "uniques": ["[+2 Faith] from every [Luxury resource]","Double quantity of [Horses] produced",
+		"[Mounted] units gain the [Ignore terrain cost] promotion","[+150]% Production when constructing [Outremer] buildings [in all cities]",
+		"Free [Crusader] appears <upon discovering [Theology] technology>","Free [Crusader] appears <upon discovering [Theology] technology>",
+		"Free [Crusader] appears <upon discovering [Theology] technology>","Free [Crusader] appears <upon discovering [Theology] technology>",
+		"Free [Crusader] appears <upon discovering [Theology] technology>","Free [Crusader] appears <upon discovering [Theology] technology>",
+		"Free [Crusader] appears <upon discovering [Theology] technology>","Free [Crusader] appears <upon discovering [Theology] technology>",
+		"Free [Crusader] appears <upon discovering [Theology] technology>","Free [Crusader] appears <upon discovering [Theology] technology>"],
         "cities": [
-		"Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
-            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron","Azotus"
+            "Jerusalem","Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
+            "Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron",
+            "Azotus"
         ],
         "spyNames": [
             "Jason","Helena","Alexa","Cletus","Kassandra","Andres","Desdemona","Anthea","Aeneas","Leander"
